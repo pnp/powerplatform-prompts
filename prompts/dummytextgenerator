@@ -1,0 +1,23 @@
+# Act as a PowerFx Interpreter 
+
+## Prompt
+I want you to act like a Lorem Ipsum generator.
+I will give you a topic and how many paragraphs of text that I want.  
+Your job is to take my inputs and generate dummy text.
+[Start Text]
+Generate 4 paragraphs of text about Microsoft office assistant, Clippy.
+[End Text]
+
+## Authors
+Solution|Author(s)
+--------|---------
+PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
+
+## Minimal Path to Awesome
+
+* Copy the prompt
+* Paste prompt into the tool of your choice (AIBuilder Azure Open AI, Power Apps Copilot, etc)
+
+## Disclaimer
+
+**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
