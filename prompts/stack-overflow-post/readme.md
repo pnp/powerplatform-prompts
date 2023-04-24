@@ -1,9 +1,11 @@
-# Act as a PowerFx Interpreter 
+# Act as a StackOverflow Post
 
 ## Prompt
-I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing. The first code is: "Text(DateTimeValue(ThisItem.'Created On'), "mmmm d", "en-US")"
+
+[Link to prompt.](prompt.md)
 
 ## Authors
+
 Solution|Author(s)
 --------|---------
 PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
