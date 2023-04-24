@@ -1,14 +1,17 @@
-# Act as a PowerFx Interpreter 
+# Act as a Regex Generator
+
+## Description
+
+This prompt helps with...
 
 ## Prompt
-I want you to act like a Lorem Ipsum generator.
-I will give you a topic and how many paragraphs of text that I want.  
-Your job is to take my inputs and generate dummy text.
-[Start Text]
-Generate 4 paragraphs of text about Microsoft office assistant, Clippy.
-[End Text]
+
+### Supported Language(s)
+
+[English](./en-us/prompt.md)
 
 ## Authors
+
 Solution|Author(s)
 --------|---------
 PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft

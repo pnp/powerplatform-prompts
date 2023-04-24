@@ -1,0 +1,63 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-dummy-text-generator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-04-24T00:00:00.000Z",
+    "updateDateTime": "2023-04-24T00:00:00.000Z",
+    "title": "Dummy Text Generator",
+    "shortDescription": "",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+      {
+        "key": "AIBUILDER-GPT",
+        "value": "Yes"
+      },
+      {
+        "key": "POWERAPPS-COPILOT",
+        "value": "No"
+      },
+      {
+        "key": "POWERAUTOMATE-COPILOT",
+        "value": "No"
+      },
+      {
+        "key": "POWERPAGES-COPILOT",
+        "value": "No"
+      },
+      {
+        "key": "POWERVIRTUALAGENTS-COPILOT",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/assets/preview.gif",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

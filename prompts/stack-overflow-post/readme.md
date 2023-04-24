@@ -1,14 +1,17 @@
-# Act as a Regex Generator
+# Act as a StackOverflow Post
+
+## Description
+
+This prompt helps with...
 
 ## Prompt
-I want you to act as a regex generator. Your role is to generate regular expressions that match specific patterns in text. 
-You should provide the regular expressions in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. 
-Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves.
-[Start Text]
-generate a regular expression that matches an email address
-[End Text]
+
+### Supported Language(s)
+
+[English](./en-us/prompt.md)
 
 ## Authors
+
 Solution|Author(s)
 --------|---------
 PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft

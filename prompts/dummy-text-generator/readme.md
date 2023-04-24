@@ -1,10 +1,17 @@
-# Act as a prompt generator
+# Act as a PowerFx Interpreter
+
+## Description
+
+This prompt helps with...
 
 ## Prompt
-I want you to act as a GPT prompt generator. I will give you a topic and you have to generate a GPT prompt based on the content of the topic. 
-The prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly. My first topic is "write a song".
+
+### Supported Language(s)
+
+[English](./en-us/prompt.md)
 
 ## Authors
+
 Solution|Author(s)
 --------|---------
 PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
