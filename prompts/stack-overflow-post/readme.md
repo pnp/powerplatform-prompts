@@ -6,7 +6,9 @@ This prompt helps with...
 
 ## Prompt
 
-[Link to prompt.](prompt.md)
+### Supported Language(s)
+
+[English](./en-us/prompt.md)
 
 ## Authors
 
