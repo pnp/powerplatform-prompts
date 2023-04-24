@@ -1,5 +1,9 @@
 # Act as a PowerFx Interpreter
 
+## Description
+
+This prompt helps with...
+
 ## Prompt
 
 [Link to prompt.](prompt.md)

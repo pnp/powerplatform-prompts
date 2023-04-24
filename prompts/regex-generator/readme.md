@@ -1,5 +1,9 @@
 # Act as a Regex Generator
 
+## Description
+
+This prompt helps with...
+
 ## Prompt
 
 [Link to prompt.](prompt.md)

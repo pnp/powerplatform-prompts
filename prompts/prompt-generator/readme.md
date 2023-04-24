@@ -1,5 +1,9 @@
 # Act as a prompt generator
 
+## Description
+
+This prompt helps with...
+
 ## Prompt
 
 [Link to prompt.](prompt.md)

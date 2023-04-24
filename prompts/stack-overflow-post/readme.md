@@ -1,5 +1,9 @@
 # Act as a StackOverflow Post
 
+## Description
+
+This prompt helps with...
+
 ## Prompt
 
 [Link to prompt.](prompt.md)

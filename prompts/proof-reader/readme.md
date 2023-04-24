@@ -1,5 +1,9 @@
 # Act as a Proofreader
 
+## Description
+
+This prompt helps with...
+
 ## Prompt
 
 [Link to prompt.](prompt.md)
