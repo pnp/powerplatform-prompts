@@ -13,6 +13,10 @@ We hope you find these prompts useful and have fun using GPT with the Power Plat
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
+# Prompts
+
+To view all the prompts, [go to the overview](/prompts/README.md) of all the prompts.
+
 # Authors
 
 This repository's contributors are all community members who volunteered their time to share code samples. Work is done as an open source community project, which each sample contained in their own solution.
