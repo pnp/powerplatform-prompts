@@ -1,7 +1,5 @@
 <p align="center"><h1> Power Platform GPT Prompts</h1></p>
 
-# Prompts
-
 ## Act as a prompt generator
 Contributed by [@aprildunnam](https://github.com/aprildunnam)
 
