@@ -48,7 +48,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/assets/preview.gif",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
         "alt": "Preview GIF"
       }
     ],
