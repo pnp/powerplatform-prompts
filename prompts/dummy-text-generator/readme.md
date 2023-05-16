@@ -6,7 +6,7 @@ This prompt helps with generating sample text for your projects.
 
 ## Prompt
 
-Act as a lorem ipsum text generator.  I will provide you with the amount of text I want generated and you will reply with  the lorem ipsum text.  My first prompt is "provide me sample text with two headings with two paragraphs each"
+Act as a lorem ipsum text generator. I will provide you with the amount of text I want generated and you will reply with the lorem ipsum text. My first prompt is "provide me sample text with two headings with two paragraphs each"
 
 ### Supported Language(s)
 
