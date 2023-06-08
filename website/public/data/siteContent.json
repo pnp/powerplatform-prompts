@@ -17,7 +17,7 @@
         "pageSize": 5
     },
     "navbar": {
-        "imageUrl": "/public/images/powerplatlogo.png",
+        "imageUrl": "./images/microsoft-logo.svg",
         "imageAlt": "Logo",
         "links": [
             {
