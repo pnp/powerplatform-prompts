@@ -1,12 +1,12 @@
 {
     "metadata": {
-        "title": "Featured Content Title",
-        "description": "Featured content description",
+        "title": "Power Platform Prompt Library",
+        "description": "Discover GPT prompts that you can use in the Power Platform",
         "themeColors": {
             "border-color": "#e1e1e1",
             "light-gray": "#f0f0f0",
-            "light-blue": "#3498db",
-            "dark-blue": "#253A5E",
+            "light-blue": "#17948e",
+            "dark-blue": "#037083",
             "dark-gray": "#8c8c8c",
             "green": "#4db42b",
             "white": "#fff",
@@ -17,32 +17,32 @@
         "pageSize": 5
     },
     "navbar": {
-        "imageUrl": "/Featured-Content/images/codeWithDanLogo.png",
+        "imageUrl": "https://github.com/pnp/powerplatform-prompts/blob/main/website/public/images/powerplatlogo.png",
         "imageAlt": "Logo",
         "links": [
             {
-                "title": "Link 1",
-                "url": "#"
+                "title": "Power Platform Samples",
+                "url": "https://aka.ms/powerplatform-samples"
             },
             {
                 "title": "GitHub",
-                "url": "https://github.com/danwahlin/Featured-Content"
+                "url": "https://github.com/pnp/powerplatform-prompts"
             }
         ]
     },
     "header": {
-        "title": "Featured Content Title",
-        "subtitle": "Featured Content Subtitle."
+        "title": "Power Platform Prompt Library",
+        "subtitle": "Discover GPT prompts that you can use in the Power Platform"
     },
     "items": [
         {
             "id": "0a2d4f5dd0f34a619a214d8b8b5a5f4c",
             "title": "DALLE-E Prompt Generator",
-            "url": "https://github.com/microsoft/brainstorm-fluidframework-m365-azure",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dalle-prompt-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
             "services": ["Azure Open AI", "Power Automate", "Power Apps","Dall-e"],
-            "technologies": [],
+            "technologies": ["Text Generation"],
             "description": "I want you to act as a prompt generator for Microsoft's DALL-E AI image generation service. Your job is to provide creative and detailed descriptions that will inspire interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: A gothic style portrait of a black cat in 1880's London.",
             "relatedContentItems": [
 
@@ -51,12 +51,155 @@
         {
             "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5b",
             "title": "Dummy Text Generator",
-            "url": "https://github.com/microsoft/brainstorm-fluidframework-m365-azure",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dummy-text-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Text Generation"],
+            "description": "Act as a lorem ipsum text generator. I will provide you with the amount of text I want generated and you will reply with the lorem ipsum text. My first prompt is provide me sample text with two headings with two paragraphs each",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5c",
+            "title": "Email Generator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Text Generation"],
+            "description": "I want you to act as an assistant. I will provide you with a short text, and you will generate an email from it. The email should be formatted using HTML and prettified.[Start Text] The company is closed due to bad weather. [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5d",
+            "title": "IT Expert Helpdesk Bot",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/it-expert",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Information Gathering"],
+            "description": "I want you to act as an IT Expert. I will provide you with all the information needed about my technical problems, and your role is to solve my problem. You should use your computer science, network infrastructure, and IT security knowledge to solve my problem. Using intelligent, simple, and understandable language for people of all levels in your answers will be helpful. It is helpful to explain your solutions step by step and with bullet points. Try to avoid too many technical details, but use them when necessary. I want you to reply with the solution, not write any explanations. [Start Text] My laptop has a blue screen [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5e",
+            "title": "Plagarism Detector",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/plagarism-checker",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
             "services": ["Azure Open AI", "Power Automate", "Power Apps"],
             "technologies": [],
-            "description": "Act as a lorem ipsum text generator. I will provide you with the amount of text I want generated and you will reply with the lorem ipsum text. My first prompt is provide me sample text with two headings with two paragraphs each",
+            "description": "I want you to act as a plagiarism checker. I will give you a block of text and you will only reply undetected in the language of the text input if no plagarism is detected and nothing else. Do not write explanations on replies if no plagarism is detected. If plagarism is detected you will reply detected and site references. [Start Text] Power Apps is a suite of apps, services, and connectors, as well as a data platform, that provides a rapid development environment to build custom apps for your business needs. [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5f",
+            "title": "Power Fx Interpreter",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/power-fx-interpreter",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Code Generation"],
+            "description": "I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing.[Start Text] Navigate(Screen1) [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5g",
+            "title": "Prompt Generator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/prompt-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Text Generation"],
+            "description": "I want you to act as a GPT prompt generator. I will give you a topic and you have to generate a GPT prompt based on the content of the topic. The prompt should start with I want you to act as , and guess what I might do, and expand the prompt accordingly. [Start Text] Write a welcome to the team message [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5fdi",
+            "title": "Proof Reader",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/proof-reader",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": [],
+            "description": "I want you act as a proofreader. I will provide you with a block of text and I would like you to review the text for any spelling, grammar, or punctuation errors. Once you have finished reviewing the text, provide me with any necessary corrections or suggestions to improve the text. [Start Text] Good it is PowerApps says Yoda [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5j",
+            "title": "Regex Generator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/regex-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Code Generation"],
+            "description": "I want you to act as a regex generator. Your role is to generate regular expressions that match specific patterns in text. You should provide the regular expressions in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves. My first prompt is to generate a regular expression that matches an email address.[Start Text] email [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5k",
+            "title": "SMS Generator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/sms-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Text Generation"],
+            "description": "I want you to act as an assistant. I will provide you with a short text, and you will generate an SMS from it. Maximum 160 characters.[Start Text] The company is closed due to bad weather. [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5l",
+            "title": "Stack Overflow Post",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/stack-overflow-post",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Information Gathering"],
+            "description": "I want you to act as a stackoverflow post. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. [Start Text] How do I add two strings together in Power Apps? [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5m",
+            "title": "SVG Creator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/svg-designer",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Image Creation"],
+            "description": "I would like you to act as an SVG designer. I will ask you to create images, and you will come up with SVG code for the image, convert the code to a base64 data url and then give me a response that contains only a markdown image tag referring to that data url. Do not put the markdown inside a code block. Send only the markdown, so no text. [Start Text] give me an image of a donut. [End Text]",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5n",
+            "title": "Wikepedia Page",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/wikipedia-page",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": ["Information Gathering"],
+            "description": "I want you to act as a Wikipedia page. I will give you the name of a topic, and you will provide a summary of that topic in the format of a Wikipedia page. Your summary should be informative and factual, covering the most important aspects of the topic. Start your summary with an introductory paragraph that gives an overview of the topic. [Start Text] Ada Lovelace [End Text]",
             "relatedContentItems": [
 
             ]
