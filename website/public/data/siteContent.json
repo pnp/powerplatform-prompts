@@ -17,7 +17,7 @@
         "pageSize": 5
     },
     "navbar": {
-        "imageUrl": "https://github.com/pnp/powerplatform-prompts/blob/main/website/public/images/powerplatlogo.png",
+        "imageUrl": "/public/images/powerplatlogo.png",
         "imageAlt": "Logo",
         "links": [
             {
