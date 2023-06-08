@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "title": "Featured Content Title",
+        "description": "Featured content description",
+        "themeColors": {
+            "border-color": "#e1e1e1",
+            "light-gray": "#f0f0f0",
+            "light-blue": "#3498db",
+            "dark-blue": "#253A5E",
+            "dark-gray": "#8c8c8c",
+            "green": "#4db42b",
+            "white": "#fff",
+            "black": "#000",
+            "page-margins": "0px 30px 0px 30px"
+        },
+        "randomizeFeatures": true,
+        "pageSize": 5
+    },
+    "navbar": {
+        "imageUrl": "/Featured-Content/images/codeWithDanLogo.png",
+        "imageAlt": "Logo",
+        "links": [
+            {
+                "title": "Link 1",
+                "url": "#"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/danwahlin/Featured-Content"
+            }
+        ]
+    },
+    "header": {
+        "title": "Featured Content Title",
+        "subtitle": "Featured Content Subtitle."
+    },
+    "items": [
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f4c",
+            "title": "DALLE-E Prompt Generator",
+            "url": "https://github.com/microsoft/brainstorm-fluidframework-m365-azure",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps","Dall-e"],
+            "technologies": [],
+            "description": "I want you to act as a prompt generator for Microsoft's DALL-E AI image generation service. Your job is to provide creative and detailed descriptions that will inspire interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: A gothic style portrait of a black cat in 1880's London.",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5b",
+            "title": "Dummy Text Generator",
+            "url": "https://github.com/microsoft/brainstorm-fluidframework-m365-azure",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "technologies": [],
+            "description": "Act as a lorem ipsum text generator. I will provide you with the amount of text I want generated and you will reply with the lorem ipsum text. My first prompt is provide me sample text with two headings with two paragraphs each",
+            "relatedContentItems": [
+
+            ]
+        }
+       
+    ]
+}

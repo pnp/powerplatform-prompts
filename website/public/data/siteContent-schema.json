@@ -1,0 +1,214 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "metadata": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "randomizeFeatures": {
+            "type": "boolean"
+          },
+          "pageSize": {
+            "type": "number"
+          },
+          "themeColors": {
+            "type": "object",
+            "properties": {
+              "border-color": {
+                "type": "string"
+              },
+              "light-gray": {
+                "type": "string"
+              },
+              "light-blue": {
+                "type": "string"
+              },
+              "dark-blue": {
+                "type": "string"
+              },
+              "dark-gray": {
+                "type": "string"
+              },
+              "green": {
+                "type": "string"
+              },
+              "white": {
+                "type": "string"
+              },
+              "black": {
+                "type": "string"
+              },
+              "page-margins": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "border-color",
+              "light-gray",
+              "light-blue",
+              "dark-blue",
+              "dark-gray",
+              "green",
+              "white",
+              "black",
+              "page-margins"
+            ]
+          }
+        },
+        "required": [
+          "title",
+          "description",
+          "themeColors"
+        ]
+      },
+      "navbar": {
+        "type": "object",
+        "properties": {
+          "imageUrl": {
+            "type": "string"
+          },
+          "imageAlt": {
+            "type": "string"
+          },
+          "links": {
+            "type": "array",
+            "items": [
+              {
+                "type": "object",
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "title",
+                  "url"
+                ]
+              }
+            ]
+          }
+        },
+        "required": [
+          "imageUrl",
+          "imageAlt",
+          "links"
+        ]
+      },
+      "header": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "subtitle": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "title",
+          "subtitle"
+        ]
+      },
+      "items": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "cloudCategories": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "services": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "technologies": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "description": {
+                "type": "string"
+              },
+              "feature": {
+                "type": "object",
+                "properties": {
+                  "position": {
+                    "type": "integer"
+                  },
+                  "imageUrl": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string"
+                  },
+                  "title": {
+                    "type": "string"
+                  },
+                  "description": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "position",
+                  "imageUrl",
+                  "url",
+                  "title",
+                  "description"
+                ]
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "url",
+              "type",
+              "cloudCategories",
+              "services",
+              "technologies",
+              "description"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "metadata",
+      "navbar",
+      "header",
+      "items"
+    ]
+  }
