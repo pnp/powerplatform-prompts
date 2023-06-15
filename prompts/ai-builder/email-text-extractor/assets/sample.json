@@ -1,0 +1,37 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-email-text-extractor",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-06-15T00:00:00.000Z",
+    "updateDateTime": "2023-06-15T00:00:00.000Z",
+    "title": "Email text extractor",
+    "shortDescription": "This prompt helps extracting text from emails.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/email-text-extractor/",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "TEXT EXTRACTOR"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+    ],
+    "thumbnails": [
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Phil-cmd",
+        "name": "Philippe Larrue",
+        "pictureUrl": "https://github.com/Phil-cmd.png"
+      }
+    ]
+  }
+]
