@@ -41,7 +41,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dalle-prompt-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps","Dall-e"],
+            "services": ["Azure Open AI","Dall-e"],
             "technologies": ["Text Generation"],
             "description": "I want you to act as a prompt generator for Microsoft's DALL-E AI image generation service. Your job is to provide creative and detailed descriptions that will inspire interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: A gothic style portrait of a black cat in 1880's London.",
             "relatedContentItems": [
@@ -54,7 +54,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dummy-text-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Text Generation"],
             "description": "Act as a lorem ipsum text generator. I will provide you with the amount of text I want generated and you will reply with the lorem ipsum text. My first prompt is provide me sample text with two headings with two paragraphs each",
             "relatedContentItems": [
@@ -67,7 +67,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Text Generation"],
             "description": "I want you to act as an assistant. I will provide you with a short text, and you will generate an email from it. The email should be formatted using HTML and prettified.[Start Text] The company is closed due to bad weather. [End Text]",
             "relatedContentItems": [
@@ -80,7 +80,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/it-expert",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Information Gathering"],
             "description": "I want you to act as an IT Expert. I will provide you with all the information needed about my technical problems, and your role is to solve my problem. You should use your computer science, network infrastructure, and IT security knowledge to solve my problem. Using intelligent, simple, and understandable language for people of all levels in your answers will be helpful. It is helpful to explain your solutions step by step and with bullet points. Try to avoid too many technical details, but use them when necessary. I want you to reply with the solution, not write any explanations. [Start Text] My laptop has a blue screen [End Text]",
             "relatedContentItems": [
@@ -93,7 +93,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/plagarism-checker",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": [],
             "description": "I want you to act as a plagiarism checker. I will give you a block of text and you will only reply undetected in the language of the text input if no plagarism is detected and nothing else. Do not write explanations on replies if no plagarism is detected. If plagarism is detected you will reply detected and site references. [Start Text] Power Apps is a suite of apps, services, and connectors, as well as a data platform, that provides a rapid development environment to build custom apps for your business needs. [End Text]",
             "relatedContentItems": [
@@ -106,7 +106,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/power-fx-interpreter",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Code Generation"],
             "description": "I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing.[Start Text] Navigate(Screen1) [End Text]",
             "relatedContentItems": [
@@ -119,7 +119,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/prompt-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Text Generation"],
             "description": "I want you to act as a GPT prompt generator. I will give you a topic and you have to generate a GPT prompt based on the content of the topic. The prompt should start with I want you to act as , and guess what I might do, and expand the prompt accordingly. [Start Text] Write a welcome to the team message [End Text]",
             "relatedContentItems": [
@@ -132,7 +132,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/proof-reader",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": [],
             "description": "I want you act as a proofreader. I will provide you with a block of text and I would like you to review the text for any spelling, grammar, or punctuation errors. Once you have finished reviewing the text, provide me with any necessary corrections or suggestions to improve the text. [Start Text] Good it is PowerApps says Yoda [End Text]",
             "relatedContentItems": [
@@ -145,7 +145,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/regex-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Code Generation"],
             "description": "I want you to act as a regex generator. Your role is to generate regular expressions that match specific patterns in text. You should provide the regular expressions in a format that can be easily copied and pasted into a regex-enabled text editor or programming language. Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves. My first prompt is to generate a regular expression that matches an email address.[Start Text] email [End Text]",
             "relatedContentItems": [
@@ -158,7 +158,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/sms-generator",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Text Generation"],
             "description": "I want you to act as an assistant. I will provide you with a short text, and you will generate an SMS from it. Maximum 160 characters.[Start Text] The company is closed due to bad weather. [End Text]",
             "relatedContentItems": [
@@ -171,7 +171,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/stack-overflow-post",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Information Gathering"],
             "description": "I want you to act as a stackoverflow post. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. [Start Text] How do I add two strings together in Power Apps? [End Text]",
             "relatedContentItems": [
@@ -184,7 +184,7 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/svg-designer",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Image Creation"],
             "description": "I would like you to act as an SVG designer. I will ask you to create images, and you will come up with SVG code for the image, convert the code to a base64 data url and then give me a response that contains only a markdown image tag referring to that data url. Do not put the markdown inside a code block. Send only the markdown, so no text. [Start Text] give me an image of a donut. [End Text]",
             "relatedContentItems": [
@@ -197,13 +197,104 @@
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/wikipedia-page",
             "type": "Prompt",
             "cloudCategories": ["Power Platform"],
-            "services": ["Azure Open AI", "Power Automate", "Power Apps"],
+            "services": ["Azure Open AI"],
             "technologies": ["Information Gathering"],
             "description": "I want you to act as a Wikipedia page. I will give you the name of a topic, and you will provide a summary of that topic in the format of a Wikipedia page. Your summary should be informative and factual, covering the most important aspects of the topic. Start your summary with an introductory paragraph that gives an overview of the topic. [Start Text] Ada Lovelace [End Text]",
             "relatedContentItems": [
 
             ]
-        }
+        },
+    {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5o",
+            "title": "Timesheet Approval Automation",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/timesheet-approval-automation",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Build a workflow that routes employee timesheets submitted in [Start of Text] SharePoint [End of Text] for approval from the employee's manager. If the manager approvers, send another approval to HR. If the manager rejects, notify the submitter and end the workflow.",
+            "relatedContentItems": [
+
+            ]
+        },
+           {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5p",
+            "title": "Low Inventory Notification",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/low-inventory-notification",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Create a workflow that runs every day and gets items from [Start of Text] Dataverse [End of Text]. Put all of those items in a table and include a Send an Email action.",
+            "relatedContentItems": [
+
+            ]
+        },
+            {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5q",
+            "title": "Lead Follow Up",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/lead-generation",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Create a workflow that captures new leads from Microsoft Forms and adds them to Dataverse. Set up an automated follow-up email sequence to nurture leads over time",
+            "relatedContentItems": [
+
+            ]
+        },
+                {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5r",
+            "title": "IT Ticket Assignment",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/it-ticket-automation",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Automate the IT support ticketing system. Generate a ticket upon user request, categorize it based on the issue type, and assign it to the appropriate support team for resolution.",
+            "relatedContentItems": [
+
+            ]
+        },
+                    {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5s",
+            "title": "Expense Reimbursement Approval",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/expense-reimbursement",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Automate the process of submitting, reviewing, and approving employee expenses. Design a workflow that notifies managers when new expense reports are submitted in [Start of Text] Your database name [End of Text] and processes reimbursement to employees' accounts",
+            "relatedContentItems": [
+
+            ]
+        },
+                    {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5t",
+            "title": "Event Registration Automation",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/event-registration-automation",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Create an automated event registration system. Allow users to register for events, send confirmations with event details, and follow up with attendees post-event",
+            "relatedContentItems": [
+
+            ]
+        },
+                    {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5u",
+            "title": "Customer Feedback Automation",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/customer-feedback-automation",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Automate Copilot"],
+            "technologies": ["Workflow Creation"],
+            "description": "Build a workflow that gets customer feedback from [Start of Text] Microsoft Forms [End of Text] and adds the feedback to [Start of Text]SharePoint [End of Text]. Send an email follow up to the submitter. Include text in the body that thanks them for submitting feedback.",
+            "relatedContentItems": [
+
+            ]
+        },
        
     ]
 }
