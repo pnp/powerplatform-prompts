@@ -269,7 +269,7 @@
 
             ]
         },
-                    {
+          {
             "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5t",
             "title": "Event Registration Automation",
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/event-registration-automation",
@@ -282,7 +282,7 @@
 
             ]
         },
-                    {
+           {
             "id": "0a2d4f5dd0f34a619a214d8b8b5a5f5u",
             "title": "Customer Feedback Automation",
             "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/customer-feedback-automation",
@@ -294,7 +294,7 @@
             "relatedContentItems": [
 
             ]
-        },
+        }
        
     ]
 }
