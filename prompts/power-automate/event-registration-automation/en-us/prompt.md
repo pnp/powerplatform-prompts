@@ -1,1 +1,1 @@
-Create an automated event registration system. Allow users to register for events, send confirmations with event details, and follow up with attendees post-event
+When a user submits an event registration in [Start of Text] Microsoft Forms [End of Text], add the registration to [Start of Text] Dataverse [End of Text] and send confirmation to the form submitter with event details.
