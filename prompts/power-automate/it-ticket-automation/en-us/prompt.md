@@ -1,0 +1,1 @@
+Automate the IT support ticketing system. Generate a ticket upon user request, categorize it based on the issue type, and assign it to the appropriate support team for resolution.

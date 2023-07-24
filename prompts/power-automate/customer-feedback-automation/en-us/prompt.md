@@ -1,0 +1,1 @@
+Build a workflow that gets customer feedback from [Start of Text] Microsoft Forms [End of Text] and adds the feedback to [Start of Text]SharePoint [End of Text]. Send an email follow up to the submitter. Include text in the body that thanks them for submitting feedback.

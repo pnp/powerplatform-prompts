@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-event-registration-automation",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-07-22T00:00:00.000Z",
+    "updateDateTime": "2023-07-22T00:00:00.000Z",
+    "title": "Event Registration Automation",
+    "shortDescription": "This prompt helps with automating an event registration process. It collects the responses, adds them to a registration database and sends out an email reply to the registrant confirming registration",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/event-registration-automation/",
+    "products": [
+      "Power Automate",
+      "Power Platform"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

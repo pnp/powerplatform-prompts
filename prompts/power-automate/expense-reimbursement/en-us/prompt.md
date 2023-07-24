@@ -1,0 +1,1 @@
+Automate the process of submitting, reviewing, and approving employee expenses. Design a workflow that notifies managers when new expense reports are submitted in [Start of Text] Your database name [End of Text] and processes reimbursement to employees' accounts

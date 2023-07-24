@@ -1,0 +1,1 @@
+Create an automated event registration system. Allow users to register for events, send confirmations with event details, and follow up with attendees post-event
