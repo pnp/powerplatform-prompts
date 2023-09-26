@@ -1,1 +1,1 @@
-Gen AI Prompts App. Columns: ID (Primary Column), Prompt Name, Prompt Text, Created Date, Last Used Date, App type multi-select (Power Apps, Power Automate, Power Pages, Power Virtual Agents, AI Builder, Dataverse), Rating (1-5), Approver email.
+Gen AI Prompts App. Columns: ID (Primary Column), Prompt Name, Prompt Text, Created Date, Last Used Date, App type multi-select (Power Apps, Power Automate, Power Pages, Power Virtual Agents, AI Builder, Dataverse), Rating (1-5), Approver email. 

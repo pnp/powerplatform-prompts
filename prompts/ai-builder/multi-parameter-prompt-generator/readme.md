@@ -1,4 +1,4 @@
-# Act as a Wikipedia Page
+# Multi Parameter Prompt Generator
 
 ## Description
 
@@ -21,10 +21,12 @@ Community Contributor  [Ralph Rivas](httpsgithub.bigpix2000) ([@bigpix2000](http
 
 ## Minimal Path to Awesome
 
- Copy the prompt
- Paste prompt into the "Create Text with GPT" action, or the Prompt area for the Content Modeller or even Bing Chat!  Remember to update the areas with the start and end text with your parameters and be as specific as you care to be for the open AI modifiers if you want to see a JSON result as you may get a straight forward text prompt. Remember the concept is the tool creating its own "food to eat" and targeting the Connector Action isures that the prompt will be flexible for most of the Microsoft Power Platform tools.
- This is just a starter and it is recommended that the maker/developer read the following article for more guidance and inspiration:  https://devblogs.microsoft.com/powerplatform/fueling-creativity-introducing-our-power-platform-prompt-samples-repository/
+ * Copy the prompt
+ * Paste prompt into the "Create Text with GPT" action, or the Prompt area for the Content Modeller or even Bing Chat!  
+ * Remember to update the areas with the start and end text with your parameters and be as specific as you care to be for the open AI modifiers if you want to see a JSON result as you may get a straight forward text prompt. 
+ * Also note that the concept is the tool creating its own "food to eat" and targeting the Connector Action isures that the prompt will be flexible for most of the Microsoft Power Platform tools.
+ * This is just a starter and it is recommended that the maker/developer read the following article for more guidance and inspiration:  https://devblogs.microsoft.com/powerplatform/fueling-creativity-introducing-our-power-platform-prompt-samples-repository/
 
 ## Disclaimer
 
-THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+**THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**

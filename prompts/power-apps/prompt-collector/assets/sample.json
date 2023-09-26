@@ -7,7 +7,7 @@
     "creationDateTime": "2023-09-25T00:00:00.000Z",
     "updateDateTime": "2023-09-25T00:00:00.000Z",
     "title": "Prompt Collector",
-    "shortDescription": "This prompt helps with collecting prompts.",
+    "shortDescription": "This prompt helps with collecting prompts.", 
     "longDescription": [
       "This helps collect prompts that are used in any and all contexts to provide a repo for re-use."
     ],

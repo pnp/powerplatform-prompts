@@ -1,4 +1,4 @@
-# Customer Feedback Automation
+# Prompt Collector
 
 ## Description
 
@@ -19,7 +19,7 @@ Customer Feedback Automation | [Ralph Rivas](https://www.github.com/bigpix2000) 
 ## Minimal Path to Awesome
 
 * Copy the prompt
-* Paste prompt into the Power Apps Copilot Starting area.
+* Paste prompt into the Power Apps Copilot Starting area. 
 
 ## Disclaimer
 

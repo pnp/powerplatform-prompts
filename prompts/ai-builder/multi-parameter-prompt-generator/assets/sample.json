@@ -7,7 +7,7 @@
     "creationDateTime": "2023-09-25T00:00:00.000Z",
     "updateDateTime": "2023-09-25T00:00:00.000Z",
     "title": "AI Builder Multi Parameter Prompt Generator",
-    "shortDescription": "Prompt generator with parameter assistance",
+    "shortDescription": "Prompt generator with parameter assistance", 
     "longDescription": [
       "A maker/developer centric prompt maker that covers the key features of the underlying Open AI API's to make the most of the feature set"
     ],
