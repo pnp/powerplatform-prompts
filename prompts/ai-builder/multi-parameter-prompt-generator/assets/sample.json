@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-multi-parameter-prompt-generator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-09-25T00:00:00.000Z",
+    "updateDateTime": "2023-09-25T00:00:00.000Z",
+    "title": "AI Builder Multi Parameter Prompt Generator",
+    "shortDescription": "Prompt generator with parameter assistance", 
+    "longDescription": [
+      "A maker/developer centric prompt maker that covers the key features of the underlying Open AI API's to make the most of the feature set"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/multi-parameter-prompt-generator/",
+    "products": [
+      "AI Builder",
+      "Power Automate",
+      "Power Platform"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI-BUILDER", 
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "bigpix2000",
+        "name": "Ralph Rivas",
+        "pictureUrl": "https://github.com/bigpix2000.png"
+      }
+    ]
+  }
+]

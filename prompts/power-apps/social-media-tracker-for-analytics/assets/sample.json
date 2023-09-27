@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-social-media-tracker-for-analytics",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-09-25T00:00:00.000Z",
+    "updateDateTime": "2023-09-25T00:00:00.000Z",
+    "title": "Social Media Tracker for Analytics", 
+    "shortDescription": "This prompt helps with tracking social media product announcement posts for later analysis.",
+    "longDescription": [
+      "This is a starter for a social media tracker looking at the main details typically used for Analysis"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/social-media-tracker-for-analytics",
+    "products": [
+      "Power Appa",
+      "Power Platform"
+    ],
+    "tags": [
+      "Power Apps Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "bigpix2000",
+        "name": "Ralph Rivas",
+        "pictureUrl": "https://github.com/bigpix2000.png"
+      }
+    ]
+  }
+]
