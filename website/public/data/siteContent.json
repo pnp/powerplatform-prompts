@@ -294,6 +294,58 @@
             "relatedContentItems": [
 
             ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f1r",
+            "title": "Portal Main Page for Grocery Retail Organization",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-pages/portal-main-page-grocery-retail",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Pages Copilot"],
+            "technologies": ["Website Creation"],
+            "description": "As a Food Retail Marketing Executive, I need a snazzy looking portal site for our Grocery Division, Contoso Foods to show off our latest products to our customers and partner vendors with interactive chat that helps users find products, recipes and Food Events we are sponsoring along with links to download our Phone App and to reach us on Social Media.",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f1s",
+            "title": "Social Media Tracker for Analytics",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/social-media-tracker-for-analytics",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Apps Copilot"],
+            "technologies": ["App Dev"],
+            "description": "I am a Product Manager who wants a social media tracker of our [Start Text] phone/cloud apps [End Text]. Track important metrics to help me make good analytical decisions about the effect and reach of announcement with a multi-select choice of social Media venues. ",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f1z",
+            "title": "Prompt Collector",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/prompt-collector",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Power Apps Copilot"],
+            "technologies": ["App Dev"],
+            "description": "Gen AI Prompts App. Columns: ID (Primary Column), Prompt Name, Prompt Text, Created Date, Last Used Date, App type multi-select (Power Apps, Power Automate, Power Pages, Power Virtual Agents, AI Builder, Dataverse), Rating (1-5), Approver email.",
+            "relatedContentItems": [
+
+            ]
+        },
+        {
+            "id": "0a2d4f5dd0f34a619a214d8b8b5a5f1y",
+            "title": "Multi Parameter Prompt Generator",
+            "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/multi-parameter-prompt-generator",
+            "type": "Prompt",
+            "cloudCategories": ["Power Platform"],
+            "services": ["Azure Open AI"],
+            "technologies": ["Azure OpenAI"],
+            "description": "Create A Generative AI Prompt that demonstrates the key elements of a good generative ai prompt in the form like As a [Start Text] person in a role [End Text] [Start Text] performing some specific action or activity [End Text] [Start Text] under the following additional context conditions [End Text] [Start Text] using open ai modifiers such as Top_p, and Temperature etc [End Text] [Start Text] in under 500 words [End Text] that can be used in the Power Automate AI Builder's Create text with GPT Action",
+            "relatedContentItems": [
+
+            ]
         }
        
     ]
