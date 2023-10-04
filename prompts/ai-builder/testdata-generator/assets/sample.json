@@ -11,13 +11,13 @@
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/testdata-generator/",
     "products": [
       "AI Builder",
       "Power Platform"
     ],
     "tags": [
-      "TEXT GENERATOR"
+      "Test data GENERATOR"
     ],
     "categories": [
       "AI-BUILDER"
