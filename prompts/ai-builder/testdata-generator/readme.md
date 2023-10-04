@@ -1,12 +1,13 @@
-# Act as an SVG Generator
+# Act as an Test Data Generator
 
 ## Description
 
-This prompt helps with generating SVG's
+This prompt helps with generating test data
 
 ## Prompt
 
-I would like you to act as an SVG designer. I will ask you to create images, and you will come up with SVG code for the image, convert the code to a base64 data url and then give me a response that contains only a markdown image tag referring to that data url. Do not put the markdown inside a code block. Send only the markdown, so no text. My first request is: give me an image of a donut.
+I want you to act as a test data generator and I will provide you with a topic and properties to generate, and you will create a list of unique 20 data in CSV format with specified properties. 
+[Start Text] UNESCO Buildings with properties Title and description[End Text]
 
 ### Supported Language(s)
 
@@ -14,14 +15,14 @@ I would like you to act as an SVG designer. I will ask you to create images, and
 
 ## Authors
 
-SolutionAuthor(s)
+Solution Author(s)
 -----------------
-PowerFx Interpreter  [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](httpstwitter.comaprildunnam)), Microsoft
+Test Data Generator  [Reshmee Auckloo](https://github.com/reshmee011) ([@reshmeeauckloo](https://twitter.com/reshmeeauckloo))
 
 ## Minimal Path to Awesome
 
  Copy the prompt
- Paste prompt into the tool of your choice (AIBuilder Azure Open AI, Power Apps Copilot, etc)
+ Paste prompt into the tool of your choice (AI Builder Azure Open AI, Power Apps Copilot, etc)
 
 ## Disclaimer
 
