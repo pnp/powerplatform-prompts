@@ -1,0 +1,1 @@
+When a new email arrives to my inbox check if email has attachments. If yes, save them in onedrive for business and share. After saving action send teams message for each file. If there is no attachment send teams message. Add last step which is archiving the email.
