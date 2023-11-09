@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-testdata-generator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-10-04T00:00:00.000Z",
+    "updateDateTime": "2023-10-04T00:00:00.000Z",
+    "title": "Test Data Generator",
+    "shortDescription": "",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/testdata-generator/",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "Test data GENERATOR"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "reshmee011",
+        "name": "Reshmee Auckloo",
+        "pictureUrl": "https://github.com/reshmee011.png"
+      }
+    ]
+  }
+]
