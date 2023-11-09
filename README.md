@@ -5,7 +5,7 @@ Welcome to the "Power Platform GPT Prompts" repository! This is a collection of 
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with GPT. We encourage you to [add your own prompts](https://github.com/pnp/powerplatform-prompts/main/README.md) to the list, and to use GPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with GPT. We encourage you to [add your own prompts](https://github.com/pnp/powerplatform-prompts#-power-platform-gpt-prompts) to the list, and to use GPT to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
