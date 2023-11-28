@@ -9,7 +9,7 @@ Recommended place to run: Cloud flows designer with enabled copilot.
 Recommended implementation approach:
 1) Open new empty flow with enabled copilot
 2) Add first prompt (remember to adjust parameters):
-    > Use trigger When an item is created or modified. Enter trigger Site Address custom value: 'YOUR SITE ADDRESS' and custom List Name value: 'YOUR SITE NAME'. 
+    > Use trigger When an item is created or modified. Enter trigger Site Address custom value: 'YOUR SITE ADDRESS' and custom List Name value: 'YOUR LIST NAME'. 
 3) Add second prompt (remember to adjust parameters):
     > Add Get user profile and use "['SHAREPOINT FIELD STORING INFO ABOUT USER']?['Email']" in UPN.
 4) Add third prompt (remember to adjust parameters):
