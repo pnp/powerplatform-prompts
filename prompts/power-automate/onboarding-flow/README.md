@@ -2,7 +2,7 @@
 
 ## Description
 
-Many times teams struggle with proper onboarding process due to the fact of adding user to many tools. It is time-consuming and can lead to mistakes. This flow can automate this process by adding user added to SharePoint list to selected Security Group which is assigned to many different Office Apps like SharePoint, Power Apps or Power BI. At one time we can grant access to all apps we need in our process.
+Many times teams struggle with proper onboarding process due to the fact of adding user to many tools. It is time-consuming and can lead to mistakes. This flow can automate this process by adding user added to SharePoint list (access tracker) to selected Security Group which is assigned to many different Office Apps like SharePoint, Power Apps or Power BI. At one time we can grant access to all apps we need in our process.
 
 Recommended place to run: Cloud flows designer with enabled copilot.
 
@@ -31,7 +31,7 @@ Potential things to consider:
 
 Solution|Author(s)
 --------|---------
-Outlook attachments distribution | [Andrzej Bożyk](https://www.github.com/abozyk1990) ([@BozykAndrzej](https://twitter.com/BozykAndrzej)), Individual Contributor
+Onboarding flow | [Andrzej Bożyk](https://www.github.com/abozyk1990) ([@BozykAndrzej](https://twitter.com/BozykAndrzej)), Individual Contributor
 
 
 ## Disclaimer
