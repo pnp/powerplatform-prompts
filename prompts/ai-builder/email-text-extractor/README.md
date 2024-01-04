@@ -22,7 +22,7 @@ Take a look at the following link to learn more on how to use this prompt:
 * Your environment in the US
 * A Power Apps or Power Automate license.
 * Dataverse database installed on the environment.
-* An AI Builder add-on or trial
+* An AI Builder add-on
 
 ## Authors
 
