@@ -1,0 +1,1 @@
+Please summarize this article [input_text] only in [number_of_bullet_points] bullet points.
