@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "article-summary",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-02-14T00:00:00.000Z",
+    "updateDateTime": "2024-02-14T00:00:00.000Z",
+    "title": "Article summary",
+    "shortDescription": "This prompt helps with summarizing long articles in a few points",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "abozyk1990",
+        "name": "Andrzej Bożyk",
+        "pictureUrl": "https://github.com/abozyk1990.png"
+      }
+    ]
+  }
+]
