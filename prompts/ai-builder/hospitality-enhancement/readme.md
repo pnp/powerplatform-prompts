@@ -6,7 +6,7 @@ This prompt suggests improvements for hospitality services based on customer fee
 
 ## Prompt
 
-Analyze the following customer feedback and suggest service enhancements for a hotel <text>
+Analyze the following customer feedback and suggest service enhancements for a hotel [text]
 
 ### Supported Language(s)
 
