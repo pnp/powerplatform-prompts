@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-interview-prep",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-03-02T00:00:00.000Z",
+    "updateDateTime": "2024-03-02T00:00:00.000Z",
+    "title": "Interview Prep Guide",
+    "shortDescription": "Interview Prep Guide",
+    "longDescription": [
+      "Provides a guide for preparing for job interviews"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/interview-prep/",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "prompts","hr","interview"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

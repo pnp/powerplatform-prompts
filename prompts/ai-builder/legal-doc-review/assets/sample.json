@@ -1,0 +1,47 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-legal-doc-review",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-03-02T00:00:00.000Z",
+    "updateDateTime": "2024-03-02T00:00:00.000Z",
+    "title": "Legal Document Review",
+    "shortDescription": "Legal Document Review",
+    "longDescription": [
+      "Automates the review of legal documents for key terms and clauses"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/legal-doc-review/",
+    "products": [
+      "AI Builder",
+      "Power Platform"
+    ],
+    "tags": [
+      "prompts","legal"
+    ],
+    "categories": [
+      "AI-BUILDER"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

@@ -2,3 +2,5 @@ Use trigger When an item is created or modified. Enter trigger Site Address cust
 Add Get user profile and use "['SHAREPOINT FIELD STORING INFO ABOUT USER']?['Email']" in UPN.
 Add Entra action Add member to group. As user Id enter id from Get User profile. As Group Id enter: 'YOUR SECURITY GROUP ID'.
 Send email to user added to the group. Fill in subject and body. At least 5 sentences.
+
+[Open in Power Automate](https://make.powerautomate.com/create/fromNaturalLanguage?prompt=Use%20trigger%20When%20an%20item%20is%20created%20or%20modified.%20Enter%20trigger%20Site%20Address%20custom%20value%3A%20'YOUR%20SITE%20ADDRESS'%20and%20custom%20List%20Name%20value%3A%20'YOUR%20LIST%20NAME'.%20%0AAdd%20Get%20user%20profile%20and%20use%20%22%5B'SHAREPOINT%20FIELD%20STORING%20INFO%20ABOUT%20USER'%5D%3F%5B'Email'%5D%22%20in%20UPN.%0AAdd%20Entra%20action%20Add%20member%20to%20group.%20As%20user%20Id%20enter%20id%20from%20Get%20User%20profile.%20As%20Group%20Id%20enter%3A%20'YOUR%20SECURITY%20GROUP%20ID'.%0ASend%20email%20to%20user%20added%20to%20the%20group.%20Fill%20in%20subject%20and%20body.%20At%20least%205%20sentences&from=Copilot&utm_source=PromptLibrary)

@@ -1,1 +1,3 @@
 When a new email arrives to my inbox check if email has attachments. If yes, save them in onedrive for business and share. After saving action send teams message for each file. If there is no attachment send teams message. Add last step which is archiving the email.
+
+[Open in Power Automate](https://make.powerautomate.com/create/fromNaturalLanguage?prompt=When%20a%20new%20email%20arrives%20to%20my%20inbox%20check%20if%20email%20has%20attachments.%20If%20yes%2C%20save%20them%20in%20onedrive%20for%20business%20and%20share.%20After%20saving%20action%20send%20teams%20message%20for%20each%20file.%20If%20there%20is%20no%20attachment%20send%20teams%20message.%20Add%20last%20step%20which%20is%20archiving%20the%20email&from=Copilot&utm_source=PromptLibrary)
