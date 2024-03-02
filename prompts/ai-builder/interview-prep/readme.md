@@ -6,7 +6,7 @@ This prompt provides a guide for preparing for job interviews
 
 ## Prompt
 
-Create an interview preparation guide tailored to the following job description <text>
+Create an interview preparation guide tailored to the following job description [text]
 
 ### Supported Language(s)
 
