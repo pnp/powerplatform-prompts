@@ -6,7 +6,7 @@ This prompt helps with summarizing research findings for easy digestion
 
 ## Prompt
 
-Summarize the key findings of the following research paper for a non-expert audience <text>
+Summarize the key findings of the following research paper for a non-expert audience [text]
 
 ### Supported Language(s)
 
