@@ -6,7 +6,7 @@ This prompt helps with outlining steps for career growth based on goals
 
 ## Prompt
 
-Design a professional development plan for someone aiming to achieve the following career milestones <text>
+Design a professional development plan for someone aiming to achieve the following career milestones [text]
 
 ### Supported Language(s)
 
