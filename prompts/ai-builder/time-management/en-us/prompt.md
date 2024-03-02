@@ -1,1 +1,1 @@
-Create a time management plan for a typical workday, given these tasks and priorities <text>
+Create a time management plan for a typical workday, given these tasks and priorities [text]
