@@ -6,7 +6,7 @@ This prompt automates the review of legal documents for key terms and clauses
 
 ## Prompt
 
-Identify and summarize the key obligations and liabilities in the following contract <text>
+Identify and summarize the key obligations and liabilities in the following contract [text]
 
 ### Supported Language(s)
 
