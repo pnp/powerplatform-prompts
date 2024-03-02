@@ -6,7 +6,7 @@ This prompt assists in developing curricula for various educational levels
 
 ## Prompt
 
-Develop a curriculum outline for this course, including lesson objectives and activities <text>
+Develop a curriculum outline for this course, including lesson objectives and activities [text]
 
 ### Supported Language(s)
 
