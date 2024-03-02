@@ -6,7 +6,7 @@ This prompt helps define and track professional or personal goals
 
 ## Prompt
 
-Develop a SMART goal-setting framework based on these long-term objectives and desired outcomes <text>
+Develop a SMART goal-setting framework based on these long-term objectives and desired outcomes [text]
 
 ### Supported Language(s)
 
