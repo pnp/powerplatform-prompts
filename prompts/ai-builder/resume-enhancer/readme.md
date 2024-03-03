@@ -6,7 +6,7 @@ This prompt helps with improving a resume to highlight relevant skills and exper
 
 ## Prompt
 
-Enhance this resume to better showcase the individual’s qualifications <text>
+Enhance this resume to better showcase the individual’s qualifications [text]
 
 ### Supported Language(s)
 

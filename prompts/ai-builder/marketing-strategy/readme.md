@@ -6,7 +6,7 @@ This prompt helps to develop a marketing strategy from product information
 
 ## Prompt
 
-Formulate a marketing strategy for this product, service or event <text> , targeting the specified audience <text>
+Formulate a marketing strategy for this product, service or event [text] , targeting the specified audience [text]
 
 ### Supported Language(s)
 

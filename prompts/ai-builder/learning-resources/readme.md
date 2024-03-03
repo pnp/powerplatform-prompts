@@ -6,7 +6,7 @@ This prompt aggregates learning resources on a specific topic.
 
 ## Prompt
 
-Compile a list of learning resources for mastering the following subject <text> . The response should include links to the resources.
+Compile a list of learning resources for mastering the following subject [text] . The response should include links to the resources.
 
 ### Supported Language(s)
 

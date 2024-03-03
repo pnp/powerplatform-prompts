@@ -6,7 +6,7 @@ Designs a schedule to optimize time usage
 
 ## Prompt
 
-Create a time management plan for a typical workday, given these tasks and priorities <text>
+Create a time management plan for a typical workday, given these tasks and priorities [text]
 
 ### Supported Language(s)
 
