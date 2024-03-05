@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Dall-E Prompt Generator",
-    "shortDescription": "",
+    "title": "Dall-E Prompt Generator Prompt",
+    "shortDescription": "AI Builder prompt that helps with generating refined prompts for Dall-E",
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dalle-prompt-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/dalle-prompt-generator/",
     "products": [
       "AI Builder",
       "Power Platform"
