@@ -11,7 +11,7 @@
     "longDescription": [
       "Moderates user-generated content for compliance with community guidelines"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/content-moderation/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/content-moderation/",
     "products": [
       "AI Builder",
       "Power Platform"
@@ -32,8 +32,8 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
-        "alt": "Preview GIF"
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/content-moderation/assets/images/contentmod.png",
+        "alt": "Preview Img"
       }
     ],
     "authors": [
