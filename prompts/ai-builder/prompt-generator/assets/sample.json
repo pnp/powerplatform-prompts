@@ -1,17 +1,17 @@
 [
   {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
-    "name": "pnp-powerplatform-prompts-dummy-text-generator",
+    "name": "pnp-powerplatform-prompts-prompt-generator",
     "version": "1.0.0.0",
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Dummy Text Generator",
-    "shortDescription": "",
+    "title": "Prompt Generator Prompt",
+    "shortDescription": "AI Builder prompt that let's you put in what you want and it helps craft a prompt for you",
     "longDescription": [
-      ""
+      "AI Builder prompt that let's you put in what you want and it helps craft a prompt for you"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/prompt-generator",
     "products": [
       "AI Builder",
       "Power Platform"
