@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-05-17T00:00:00.000Z",
     "updateDateTime": "2023-05-17T00:00:00.000Z",
-    "title": "SMS generator",
-    "shortDescription": "This prompt helps with generating an SMS from a text.",
+    "title": "SMS Generator Prompt",
+    "shortDescription": "This AI Builder prompt helps with generating an SMS from a text.",
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/sms-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/sms-generator/",
     "products": [
       "AI Builder",
       "Power Platform"
