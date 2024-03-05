@@ -1,0 +1,1 @@
+Analyse this employee feedback; [Employee Feedback] and identify the top three primary areas of concern. Provide a concise summary of each issue and propose potential solutions to address each one.
