@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-07-23T00:00:00.000Z",
     "updateDateTime": "2023-07-23T00:00:00.000Z",
-    "title": "customer-feedback-automation/README.md",
-    "shortDescription": "This prompt helps with automating customer feedback.",
+    "title": "Customer Feedback Automation",
+    "shortDescription": "This Power Automate Copilot prompt helps with automating customer feedback.",
     "longDescription": [
-      ""
+      "his Power Automate Copilot prompt helps with automating customer feedback."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/customer-feedback-automation",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/customer-feedback-automation",
     "products": [
       "Power Automate",
       "Power Platform"
