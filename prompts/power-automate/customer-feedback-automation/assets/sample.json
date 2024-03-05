@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/power-automate/customer-feedback-automation/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
