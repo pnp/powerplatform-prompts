@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-06-15T00:00:00.000Z",
     "updateDateTime": "2023-06-15T00:00:00.000Z",
-    "title": "Email text extractor",
-    "shortDescription": "This prompt helps extracting text from emails.",
+    "title": "Email Text Extractor Prompt",
+    "shortDescription": "This AI Builder prompt helps extracting text from emails.",
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/email-text-extractor/",
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/email-text-extractor/",
     "products": [
       "AI Builder",
       "Power Platform"
