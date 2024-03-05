@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "IT Expert",
-    "shortDescription": "",
+    "title": "IT Expert Prompt",
+    "shortDescription": "AI Builder prompt that helps to troubleshoot IT problems",
     "longDescription": [
-      ""
+      "AI Builder prompt that helps to troubleshoot IT problems"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/it-expert/",
     "products": [
       "AI Builder",
       "Power Platform"
