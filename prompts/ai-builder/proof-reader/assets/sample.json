@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Proof Reader",
-    "shortDescription": "",
+    "title": "Proof Reader Prompt",
+    "shortDescription": "AI Builder prompt that proof reads text for spelling and grammatical mistakes",
     "longDescription": [
-      ""
+      "I Builder prompt that proof reads text for spelling and grammatical mistakes"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/proof-reader/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/proof-reader/",
     "products": [
       "AI Builder",
       "Power Platform"
