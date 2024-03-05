@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2024-03-02T00:00:00.000Z",
     "updateDateTime": "2023-03-02T00:00:00.000Z",
-    "title": "Research Summary",
-    "shortDescription": "Research Summary",
+    "title": "Research Summary Prompt",
+    "shortDescription": "AI Builder prompt that summarizes research findings for easy digestion",
     "longDescription": [
       "Summarizes research findings for easy digestion"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/research-summary/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/research-summary/",
     "products": [
       "AI Builder",
       "Power Platform"
@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/research-summary/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
