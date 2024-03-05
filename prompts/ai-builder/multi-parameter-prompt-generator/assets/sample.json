@@ -11,7 +11,7 @@
     "longDescription": [
       "A maker/developer centric prompt maker that covers the key features of the underlying Open AI API's to make the most of the feature set"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/multi-parameter-prompt-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/multi-parameter-prompt-generator/",
     "products": [
       "AI Builder",
       "Power Automate",
