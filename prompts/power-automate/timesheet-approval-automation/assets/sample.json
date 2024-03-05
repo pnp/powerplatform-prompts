@@ -7,11 +7,11 @@
     "creationDateTime": "2023-07-23T00:00:00.000Z",
     "updateDateTime": "2023-07-23T00:00:00.000Z",
     "title": "Timesheet Approval Automation",
-    "shortDescription": "This prompt helps with automating your employee timesheet approval process.",
+    "shortDescription": "This Power Automate Copilot prompt helps with automating your employee timesheet approval process.",
     "longDescription": [
-      ""
+      "This Power Automate Copilot prompt helps with automating your employee timesheet approval process."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/timesheet-approval-automation",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/timesheet-approval-automation",
     "products": [
       "Power Automate",
       "Power Platform"
@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/power-automate/timesheet-approval-automation/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
