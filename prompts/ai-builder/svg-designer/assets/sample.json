@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "SVG Designer",
-    "shortDescription": "",
+    "title": "SVG Designer Prompt",
+    "shortDescription": "This AI Builder prompt helps to create SVG code",
     "longDescription": [
-      ""
+      "This AI Builder prompt helps to create SVG code"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/svg-designer/",
     "products": [
       "AI Builder",
       "Power Platform"
