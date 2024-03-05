@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Wikepedia Page",
-    "shortDescription": "",
+    "title": "Wikepedia Page Prompt",
+    "shortDescription": "This AI Builder prompt let's you pass in a subject you want to learn more about and it returns a Wikepedia style overview of that subject",
     "longDescription": [
-      ""
+      "This AI Builder prompt let's you pass in a subject you want to learn more about and it returns a Wikepedia style overview of that subject"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/wikipedia-page/",
     "products": [
       "AI Builder",
       "Power Platform"
