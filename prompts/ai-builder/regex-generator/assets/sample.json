@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Regex Generator",
-    "shortDescription": "",
+    "title": "Regex Generator Prompt",
+    "shortDescription": "AI Builder prompt that will generate Regex for you",
     "longDescription": [
-      ""
+      "AI Builder prompt that will generate Regex for you"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/regex-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/regex-generator/",
     "products": [
       "AI Builder",
       "Power Platform"
