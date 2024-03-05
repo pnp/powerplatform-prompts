@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Stack Overflow Post",
-    "shortDescription": "",
+    "title": "Stack Overflow Post Prompt",
+    "shortDescription": "This AI Builder prompt let's you pass in a query and gives you a response similar to what you would see in Stack Overflow",
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/stack-overflow-post/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/stack-overflow-post/",
     "products": [
       "AI Builder",
       "Power Platform"
