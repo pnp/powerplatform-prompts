@@ -11,7 +11,7 @@
     "longDescription": [
       "Designs targeted email campaigns to customers"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/email-campaign/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-campaign/",
     "products": [
       "AI Builder",
       "Power Platform"
@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/templates/previewprompts.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/email-campaign/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
