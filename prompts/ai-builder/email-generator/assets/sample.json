@@ -6,12 +6,12 @@
     "source": "pnp",
     "creationDateTime": "2023-05-16T00:00:00.000Z",
     "updateDateTime": "2023-05-16T00:00:00.000Z",
-    "title": "Email generator",
-    "shortDescription": "",
+    "title": "Email Generator Prompt",
+    "shortDescription": "AI Builder prompt that will generate email text",
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/email-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/email-generator/",
     "products": [
       "AI Builder",
       "Power Platform"
