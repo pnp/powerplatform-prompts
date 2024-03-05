@@ -8,6 +8,9 @@ Designs a schedule to optimize time usage
 
 Create a time management plan for a workday, given these tasks and priorities [priorities] . Take into account the meetings already in place for the day [meetings] and display a breakdown of focus allocations by time. Format response as HTML. 
 
+## Additional Info
+
+To see how to use this prompt in Power Automate to get a daily time blocking scheduling based on your tasks and events, check out [this video](https://youtu.be/c2FWC1-PiSQ)
 ### Supported Language(s)
 
 [English](./en-us/prompt.md)
