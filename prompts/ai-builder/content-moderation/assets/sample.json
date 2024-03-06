@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/content-moderation/assets/images/contentmod.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/ai-builder/content-moderation/assets/images/contentmod.png",
         "alt": "Preview Img"
       }
     ],
