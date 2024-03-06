@@ -32,7 +32,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/interview-prep/assets/images/preview.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/ai-builder/interview-prep/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
