@@ -18,7 +18,7 @@ Begin with the phrase: ‘Here are some anagrams:’”
 
 Solution|Author(s)
 --------|---------
-Anagram creator | | [Philippe Larrue](https://github.com/Phil-cmd), Microsoft
+Anagram creator | [Philippe Larrue](https://github.com/Phil-cmd), Microsoft |
 
 ## Minimal Path to Awesome
 
