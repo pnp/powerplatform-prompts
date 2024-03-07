@@ -1,0 +1,16 @@
+Description
+This prompt helps to identify tasks to do, actions items from a text
+
+Prompt
+Identify tasks, to-dos, or action items from the <text> . 
+The answer begin starts with "Here are the to-dos actions from your text:".
+
+Supported Language(s)
+English
+
+Authors
+Solution	Author(s)
+Interview Prep	Philippe Larrue (@plarrue), Microsoft
+Minimal Path to Awesome
+Copy the prompt
+Paste prompt into the AI Builder Create Text with with GPT using a prompt
