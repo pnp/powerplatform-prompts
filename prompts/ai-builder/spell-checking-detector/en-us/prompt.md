@@ -1,1 +1,1 @@
-Detect and correct spelling mistakes in the <text> .
+Detect and correct spelling mistakes in the [text].

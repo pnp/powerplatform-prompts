@@ -1,1 +1,1 @@
-Create hashtags from the <text> .
+Create hashtags from the [text].

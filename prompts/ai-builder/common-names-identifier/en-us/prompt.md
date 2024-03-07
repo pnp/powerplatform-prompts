@@ -1,1 +1,1 @@
-Identify common names from this <text>
+Identify common names from this [text].
