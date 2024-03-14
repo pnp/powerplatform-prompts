@@ -6,7 +6,7 @@
     "source": "pnp",
     "creationDateTime": "2023-04-24T00:00:00.000Z",
     "updateDateTime": "2023-04-24T00:00:00.000Z",
-    "title": "Wikepedia Page Prompt",
+    "title": "Wikipedia Page Prompt",
     "shortDescription": "This AI Builder prompt let's you pass in a subject you want to learn more about and it returns a Wikepedia style overview of that subject",
     "longDescription": [
       "This AI Builder prompt let's you pass in a subject you want to learn more about and it returns a Wikepedia style overview of that subject"
