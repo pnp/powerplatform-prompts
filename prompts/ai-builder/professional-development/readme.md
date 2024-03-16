@@ -6,7 +6,7 @@ This prompt helps with outlining steps for career growth based on goals
 
 ## Prompt
 
-Design a professional development plan for someone aiming to achieve the following career milestones [text]
+Design a professional development plan for someone aiming to achieve the following career [milestones]. The plan should include goals and objectives, resources and tools and a timeline for activities. Format the plan to be concise and actionable and present the information in a clear easy-to-follow manner suitable for a junior level employee.
 
 ### Supported Language(s)
 
