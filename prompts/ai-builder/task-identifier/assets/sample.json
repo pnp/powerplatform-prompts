@@ -6,7 +6,7 @@
     "source": "pnp",
     "creationDateTime": "2024-03-07T00:00:00.000Z",
     "updateDateTime": "2023-03-07T00:00:00.000Z",
-    "title": "Anagram Creator Prompt",
+    "title": "Task identifier",
     "shortDescription": "This prompt helps with identifying tasks, to-dos, or action items from a text.",
     "longDescription": [
       "This prompt helps with identifying tasks, to-dos, or action items from a text."
@@ -17,7 +17,7 @@
       "Power Platform"
     ],
     "tags": [
-      "prompts","tasks"
+      "prompts", "tasks"
     ],
     "categories": [
       "AI Builder"
