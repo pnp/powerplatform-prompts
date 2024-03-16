@@ -5,7 +5,7 @@
     "version": "1.0.0.0",
     "source": "pnp",
     "creationDateTime": "2024-03-02T00:00:00.000Z",
-    "updateDateTime": "2023-03-02T00:00:00.000Z",
+    "updateDateTime": "2023-03-16T00:00:00.000Z",
     "title": "Professional Development Plan Prompt",
     "shortDescription": "AI Builder prompt that outlines steps for career growth based on goals",
     "longDescription": [
@@ -17,7 +17,7 @@
       "Power Platform"
     ],
     "tags": [
-      "prompts","career"
+      "prompts", "career"
     ],
     "categories": [
       "AI Builder"
