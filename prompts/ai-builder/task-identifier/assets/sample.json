@@ -33,7 +33,7 @@
         "type": "image",
         "order": 100,
         "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
-        "alt": "Preview GIF"
+        "alt": "Preview PNG"
       }
     ],
     "authors": [
