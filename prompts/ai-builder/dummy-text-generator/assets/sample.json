@@ -12,8 +12,9 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/dummy-text-generator/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
