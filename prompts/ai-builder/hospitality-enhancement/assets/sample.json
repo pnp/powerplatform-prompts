@@ -12,8 +12,9 @@
       "Suggests improvements for hospitality services based on customer feedback"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/hospitality-enhancement/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
