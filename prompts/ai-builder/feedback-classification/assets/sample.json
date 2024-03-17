@@ -12,8 +12,9 @@
       "This prompt helps to designed to classify text from surveys, reviews, or any diologe, and determine if the user is asking a question, offering a suggestion, or simply leaving a closed end comment."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/feedback-classification/",
-    "products": [
+     "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
