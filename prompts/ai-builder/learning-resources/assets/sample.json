@@ -12,8 +12,9 @@
       "Aggregates learning resources on a specific topic."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/learning-resources/",
-    "products": [
+     "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
