@@ -12,8 +12,9 @@
       "AI Builder prompt that helps to troubleshoot IT problems"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/it-expert/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
