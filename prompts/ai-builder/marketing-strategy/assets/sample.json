@@ -12,8 +12,9 @@
       "Develops a marketing strategy from product information"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/marketing-strategy/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
