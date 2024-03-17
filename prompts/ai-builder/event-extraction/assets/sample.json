@@ -12,8 +12,9 @@
       "This prompt helps with identifying events from a text."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/event-extraction/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
