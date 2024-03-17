@@ -12,8 +12,9 @@
       "Moderates user-generated content for compliance with community guidelines"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/content-moderation/",
-    "products": [
+     "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
