@@ -12,8 +12,9 @@
       "Outlines steps for career growth based on goals"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/professional-development/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
