@@ -12,8 +12,9 @@
       "Automates the review of legal documents for key terms and clauses"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/legal-doc-review/",
-    "products": [
+      "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
