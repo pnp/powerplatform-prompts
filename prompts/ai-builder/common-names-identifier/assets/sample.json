@@ -12,8 +12,9 @@
       "This prompt helps with identifying common names from a text."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/common-names-identifier/",
-    "products": [
+     "products": [
       "AI Builder",
+      "AIBuilder",
       "Power Platform"
     ],
     "tags": [
