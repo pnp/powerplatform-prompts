@@ -1,12 +1,12 @@
-# Content Moderation
+# Language Detection
 
 ## Description
 
-This prompt helps to moderate user-generated content for compliance with community guidelines
+This prompt will extract the language used in a block of text
 
 ## Prompt
 
-Monitor and moderate the following user-generated content [content] , flagging any items that violate these community guidelines [guidelines]. At the top of the message, say if there is or isn't a violation with an explanation of any potential violations below.
+Please identify the predominant language of this text [text] , analyze the text and returns the detected language. The detected language is returned as the "script" of the language. For instance, for the phrase "I have a dog", it will return "en" instead of "en-US". The response for languages that can't be detected is unknown. The AI response should only include the language code without additional information.
 
 ### Supported Language(s)
 
@@ -16,7 +16,7 @@ Monitor and moderate the following user-generated content [content] , flagging a
 
 Solution|Author(s)
 --------|---------
-Content Moderation | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
+Language Detection | [Philippe Larrue](https://github.com/Phil-cmd), Microsoft
 
 ## Minimal Path to Awesome
 
