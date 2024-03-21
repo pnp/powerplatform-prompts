@@ -6,7 +6,7 @@ This prompt will extract the language used in a block of text
 
 ## Prompt
 
-Please identify the predominant language of this text [text] , analyze the text and returns the detected language. The detected language is returned as the "script" of the language. For instance, for the phrase "I have a dog", it will return "en" instead of "en-US". The response for languages that can't be detected is unknown. The AI response should only include the language code without additional information.
+Please identify the predominant language of this text [text] .The detected language should be returned as the "script" of the language. For instance, for the phrase "I have a dog", it will return "en" instead of "en-US". The response for languages that can't be detected is unknown. Only return the language, do not say anything else.
 
 ### Supported Language(s)
 
