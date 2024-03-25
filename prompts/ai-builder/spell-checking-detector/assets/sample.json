@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with detecting and correcting spelling mistakes in a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/spell-checking-detector/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/spell-checking-detector/",
     "products": [
       "AI Builder",
       "Power Platform"

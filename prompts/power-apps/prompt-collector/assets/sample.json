@@ -11,7 +11,7 @@
     "longDescription": [
       "This helps collect prompts that are used in any and all contexts to provide a repo for re-use."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/prompt-collector",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/prompt-collector",
     "products": [
       "Power Apps",
       "Power Platform"

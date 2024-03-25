@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with identifying events from a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/event-extraction/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/event-extraction/",
       "products": [
       "AI Builder",
       "AIBuilder",

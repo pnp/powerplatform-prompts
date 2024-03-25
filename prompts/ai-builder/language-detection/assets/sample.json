@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt will extract the language used in a block of text"
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/ai-builder/language-detection/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/language-detection/",
     "products": [
       "AI Builder",
       "Power Platform",

@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with identifying main themes from a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/topic-modeling/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/topic-modeling/",
     "products": [
       "AI Builder",
       "Power Platform"

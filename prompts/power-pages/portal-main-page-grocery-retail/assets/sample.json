@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps quickly stand up a starter Main page for a Power Page based portal targeting the Grocery devision of a Food Retailer."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/main/prompts/dummy-text-generator/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/dummy-text-generator/",
     "products": [
       "Power Pages",
       "Power Platform"
