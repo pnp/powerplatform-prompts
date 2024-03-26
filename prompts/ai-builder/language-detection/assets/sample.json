@@ -25,8 +25,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Please identify the predominant language of this text [text]. The detected language should be returned as the 'script' of the language. For instance, for the phrase 'I have a dog', it will return 'en' instead of 'en-US'. The response for languages that can't be detected is unknown. Only return the language, do not say anything else."
       }
     ],
     "thumbnails": [
