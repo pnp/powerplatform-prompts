@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with identifying tasks, to-dos, or action items from a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/task-identifier/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/task-identifier/",
     "products": [
       "AI Builder",
       "Power Platform"
@@ -24,8 +24,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Identify tasks, to-dos, or action items from the [text]. The answer begin starts with 'Here are the to-dos actions from your text:'."
       }
     ],
     "thumbnails": [
