@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with identifying main themes from a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/topic-modeling/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/topic-modeling/",
     "products": [
       "AI Builder",
       "Power Platform"
@@ -24,8 +24,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompts",
+        "value": "Identify the main themes in a large batch of the [text]."
       }
     ],
     "thumbnails": [
