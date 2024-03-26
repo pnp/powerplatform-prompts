@@ -11,7 +11,7 @@
     "longDescription": [
       "This prompt helps with identifying events from a text."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/event-extraction/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/event-extraction/",
       "products": [
       "AI Builder",
       "AIBuilder",
@@ -25,8 +25,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Identify events (who did what to whom, when, and where) mentioned in this [text]."
       }
     ],
     "thumbnails": [
