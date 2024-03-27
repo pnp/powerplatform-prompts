@@ -12,7 +12,7 @@
       "Moderates user-generated content for compliance with community guidelines"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/content-moderation/",
-     "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -25,8 +25,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Monitor and moderate the following user-generated content [content] , flagging any items that violate these community guidelines [guidelines]. At the top of the message, say if there is or isn't a violation with an explanation of any potential violations below."
       }
     ],
     "thumbnails": [

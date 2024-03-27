@@ -12,21 +12,21 @@
       "Assists in developing curricula for various educational levels"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/curriculum-creation/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
     ],
     "tags": [
-      "prompts","education","curriculum"
+      "prompts", "education", "curriculum"
     ],
     "categories": [
       "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Develop a curriculum outline for this course, including lesson objectives and activities [text]"
       }
     ],
     "thumbnails": [

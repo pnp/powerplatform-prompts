@@ -12,7 +12,7 @@
       "Designs targeted email campaigns to customers"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-campaign/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -25,8 +25,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Design a [campaign length] email campaign for this product or service launch [product], targeting the following customer segments [segments]. Provide in a bulleted list which contains the week, goal and sample email copy."
       }
     ],
     "thumbnails": [

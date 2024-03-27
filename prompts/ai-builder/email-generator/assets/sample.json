@@ -12,7 +12,7 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-generator/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -25,8 +25,12 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "I want you to act as an assistant. I will provide you with a short text, and you will generate an email from it. The email should be formatted using HTML and prettified. [text]"
+      },
+      {
+        "key": "Example input",
+        "value": "The company is closed due to bad weather."
       }
     ],
     "thumbnails": [
