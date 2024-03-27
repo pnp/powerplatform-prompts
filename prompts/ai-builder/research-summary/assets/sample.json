@@ -17,15 +17,15 @@
       "Power Platform"
     ],
     "tags": [
-      "prompts","research"
+      "prompts", "research"
     ],
     "categories": [
       "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Summarize the key findings of the following research paper for a non-expert audience [text]"
       }
     ],
     "thumbnails": [
