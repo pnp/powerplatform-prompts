@@ -13,6 +13,15 @@ Take a look at the following link to learn more on how to use this prompt:
 
 ## Prompt
 
+Extract the 'orderNumber', 'deliveryNumber' and find the 'status' of the following email.
+The status can be 'Done' or 'N/A' or 'Undone'.
+Use CSV format for your answer.
+Add headers 'Order Number', 'Delivery Number' and 'Status'.
+Add a line break at the end of your CSV lines. 
+If the text below has less than couple of words or looks like a placeholder text, respond "Sorry, I can't extract information", otherwise respond with the extracted information.
+ 
+[text]
+
 ### Supported Language(s)
 
 [English](./en-us/prompt.md)
