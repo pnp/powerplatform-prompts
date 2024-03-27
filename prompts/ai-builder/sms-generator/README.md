@@ -6,6 +6,10 @@ This prompt helps with generating an SMS from a text.
 
 ## Prompt
 
+I want you to act as an assistant. I will provide you with a short text, and you will generate an SMS from it. Maximum 160 characters.
+
+[text]
+
 ### Supported Language(s)
 
 [English](./en-us/prompt.md)
