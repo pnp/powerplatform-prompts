@@ -17,15 +17,15 @@
       "Power Platform"
     ],
     "tags": [
-      "prompts","resume"
+      "prompts", "resume"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Enhance this resume to better showcase the individual's qualifications [text]"
       }
     ],
     "thumbnails": [

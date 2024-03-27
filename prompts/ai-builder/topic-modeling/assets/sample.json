@@ -24,7 +24,7 @@
     ],
     "metadata": [
       {
-        "key": "Prompts",
+        "key": "Prompt",
         "value": "Identify the main themes in a large batch of the [text]."
       }
     ],

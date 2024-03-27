@@ -25,7 +25,11 @@
     "metadata": [
       {
         "key": "Prompt",
-        "value": "I want you to act as a Wikipedia page. Take this topic [topic], and provide a summary of that topic in the format of a Wikipedia page. Your summary should be informative and factual, covering the most important aspects of the topic. Start your summary with an introductory paragraph that gives an overview of the topic."
+        "value": "I want you to act as a Wikipedia page. I will give you the name of a topic, and you will provide a summary of that topic in the format of a Wikipedia page. Your summary should be informative and factual, covering the most important aspects of the topic. Start your summary with an introductory paragraph that gives an overview of the topic. [topic]"
+      },
+      {
+        "key": "Example Input",
+        "value": "Ada Lovelace"
       }
     ],
     "thumbnails": [
