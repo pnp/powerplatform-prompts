@@ -6,7 +6,7 @@ This prompt is designed to summarise employee feedback and provide potential sol
 
 ## Prompt
 
-Analyse this employee feedback; [Employee Feedback] and identify the top three primary areas of concern. Provide a concise summary of each issue and propose potential solutions to address each one.
+Analyse this [Employee Feedback] and identify the top three primary areas of concern. Provide a concise summary of each issue and propose potential solutions to address each one.
 
 ### Supported Language(s)
 
