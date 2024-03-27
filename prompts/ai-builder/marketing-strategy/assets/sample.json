@@ -12,21 +12,21 @@
       "Develops a marketing strategy from product information"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/marketing-strategy/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
     ],
     "tags": [
-      "prompts","marketing"
+      "prompts", "marketing"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Formulate a marketing strategy for this product, service or event [text], targeting the specified [audience]"
       }
     ],
     "thumbnails": [
