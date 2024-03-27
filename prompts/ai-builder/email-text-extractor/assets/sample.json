@@ -12,7 +12,7 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/email-text-extractor/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -21,11 +21,21 @@
       "TEXT EXTRACTOR"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Extract the 'orderNumber', 'deliveryNumber' and find the 'status' of the following email. The status can be 'Done' or 'N/A' or 'Undone'. Use CSV format for your answer. Add headers 'Order Number', 'Delivery Number' and 'Status'. Add a line break at the end of your CSV lines. If the text below has less than couple of words or looks like a placeholder text, respond “Sorry, I cant extract information”, otherwise respond with the extracted information. [text]"
+      }
     ],
     "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
     ],
     "authors": [
       {

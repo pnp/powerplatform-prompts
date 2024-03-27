@@ -12,28 +12,28 @@
       "Automates the review of legal documents for key terms and clauses"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/legal-doc-review/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
     ],
     "tags": [
-      "prompts","legal"
+      "prompts", "legal"
     ],
     "categories": [
       "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Identify and summarize the key obligations and liabilities in the following contract [text]"
       }
     ],
     "thumbnails": [
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/ai-builder/legal-doc-review/assets/images/preview.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
         "alt": "Preview GIF"
       }
     ],

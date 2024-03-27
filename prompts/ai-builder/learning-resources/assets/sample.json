@@ -12,7 +12,7 @@
       "Aggregates learning resources on a specific topic."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/learning-resources/",
-     "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -25,8 +25,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Compile a list of learning resources for mastering the following subject [text] . The response should include links to the resources."
       }
     ],
     "thumbnails": [

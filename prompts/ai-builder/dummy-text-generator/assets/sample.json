@@ -12,7 +12,7 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dummy-text-generator/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -29,11 +29,11 @@
         "value": "I want you to act like a Lorem Ipsum generator. I will give you a topic and how many paragraphs of text that I want. Your job is to take my inputs and generate dummy text. [Text]"
       },
       {
-        "key": "Example input 1",
+        "key": "Example Input 1",
         "value": "Generate 4 paragraphs of text about Microsoft office assistant, Clippy."
       },
       {
-        "key": "Example input 2",
+        "key": "Example Input 2",
         "value": "Provide me sample text with two headings with two paragraphs each."
       }
     ],

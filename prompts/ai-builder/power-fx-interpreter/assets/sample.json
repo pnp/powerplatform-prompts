@@ -12,7 +12,7 @@
       "AI Builder prompt that helps to explain Power Fx logic"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/power-fx-interpreter/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
@@ -21,28 +21,16 @@
       "CODE INTERPRETER"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {
-        "key": "AIBUILDER-GPT",
-        "value": "Yes"
+        "key": "Prompt",
+        "value": "I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing. The first code is: [code]"
       },
       {
-        "key": "POWERAPPS-COPILOT",
-        "value": "No"
-      },
-      {
-        "key": "POWERAUTOMATE-COPILOT",
-        "value": "No"
-      },
-      {
-        "key": "POWERPAGES-COPILOT",
-        "value": "No"
-      },
-      {
-        "key": "POWERVIRTUALAGENTS-COPILOT",
-        "value": "No"
+        "key": "Example Input",
+        "value": "Text(DateTimeValue(ThisItem.'Created On'), \"mmmm d\", \"en-US\")"
       }
     ],
     "thumbnails": [

@@ -12,21 +12,21 @@
       "Provides a guide for preparing for job interviews"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/interview-prep/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform"
     ],
     "tags": [
-      "prompts","hr","interview"
+      "prompts", "hr", "interview"
     ],
     "categories": [
       "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Create an interview preparation guide tailored to the following job description [text]"
       }
     ],
     "thumbnails": [
