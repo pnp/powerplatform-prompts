@@ -6,7 +6,7 @@ This prompt helps to design targeted email campaigns to customers
 
 ## Prompt
 
-Design a [campaign length] email campaign for this product or service launch [product] , targeting the following customer segments [segments] . Provide in a bulleted list which contains the week, goal and sample email copy
+Design a [campaign length] email campaign for this product or service launch [product], targeting the following customer segments [segments]. Provide in a bulleted list which contains the week, goal and sample email copy.
 
 ### Supported Language(s)
 
