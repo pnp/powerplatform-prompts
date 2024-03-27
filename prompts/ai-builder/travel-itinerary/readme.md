@@ -6,7 +6,9 @@ This prompt generates personalized travel itineraries based on destinations, dat
 
 ## Prompt
 
-Create a travel itinerary for my trip from [Origin] to [Destination]. I’ll be traveling from [Start Date] to [End Date]. My interests include [Interests], and I have the following obligations: [Obligations]. Please suggest a daily itinerary that incorporates sightseeing, dining, and leisure activities
+```
+Create a travel itinerary for my trip from [Origin] to [Destination]. I'll be traveling from [Start Date] to [End Date]. My interests include [Interests], and I have the following obligations: [Obligations]. Please suggest a daily itinerary that incorporates sightseeing, dining, and leisure activities.
+```
 
 ### Supported Language(s)
 
