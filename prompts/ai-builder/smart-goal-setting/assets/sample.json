@@ -17,15 +17,15 @@
       "Power Platform"
     ],
     "tags": [
-      "prompts","goals"
+      "prompts", "goals"
     ],
     "categories": [
       "AI Builder"
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Develop a SMART goal-setting framework based on these long-term objectives and desired outcomes [text]"
       }
     ],
     "thumbnails": [
