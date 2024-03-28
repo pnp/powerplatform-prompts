@@ -1,0 +1,1 @@
+Create an informative FAQ document based on the provided [text] , addressing common questions and concerns.
