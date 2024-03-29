@@ -1,1 +1,3 @@
-I want you to act as a GPT prompt generator. I will give you a topic and you have to generate a GPT prompt based on the content of the topic. The prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly. My first topic is [topic].
+I want you to act as a GPT prompt generator. Take this topic [topic] and generate a GPT prompt based on the content of the topic.
+
+The prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly.
