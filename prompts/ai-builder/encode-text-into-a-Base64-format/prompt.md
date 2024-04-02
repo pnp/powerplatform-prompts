@@ -1,0 +1,1 @@
+Encode the following plain [text] into a Base64 format. Return the response "Encoded text:" 
