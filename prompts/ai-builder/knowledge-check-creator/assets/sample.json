@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-knowledge-check-creator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-04T00:00:00.000Z",
+    "updateDateTime": "2024-04-04T00:00:00.000Z",
+    "title": "Knowledge check creator",
+    "shortDescription": "This prompt helps creating knowledge checks based on a text.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/knowledge-check-creator/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform"
+    ],
+    "tags": [
+      "Content generation"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Create a knowledge check from this [text] , include multiple-choice questions and answers. Ensure that the questions are clear, concise, and accurately. Designate the correct answer within parentheses."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Phil-cmd",
+        "name": "Philippe Larrue",
+        "pictureUrl": "https://github.com/Phil-cmd.png"
+      }
+    ]
+  }
+]
