@@ -1,0 +1,1 @@
+Write 5 proposals on blog posts about [text]. All proposals should include the blog post title as well as a small summary. Format the proposals as bullet points, starting with the title and on the next line the summary.

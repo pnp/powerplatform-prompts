@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-blog-idea-generator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-05T00:00:00.000Z",
+    "updateDateTime": "2024-04-05T00:00:00.000Z",
+    "title": "Blog Idea Generator",
+    "shortDescription": "This prompt helps with generating ideas for blog posts.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/blog-idea-generator/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform"
+    ],
+    "tags": [
+      "Content generation"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Write 5 proposals on blog posts about [text]. All proposals should include the blog post title as well as a small summary. Format the proposals as bullet points, starting with the title and on the next line the summary."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]
