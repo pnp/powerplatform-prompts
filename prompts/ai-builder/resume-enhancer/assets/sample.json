@@ -14,7 +14,8 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/resume-enhancer/",
     "products": [
       "AI Builder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "prompts", "resume"

@@ -6,7 +6,7 @@
     "source": "pnp",
     "creationDateTime": "2023-09-25T00:00:00.000Z",
     "updateDateTime": "2023-09-25T00:00:00.000Z",
-    "title": "Social Media Tracker for Analytics", 
+    "title": "Social Media Tracker for Analytics",
     "shortDescription": "This prompt helps with tracking social media product announcement posts for later analysis.",
     "longDescription": [
       "This is a starter for a social media tracker looking at the main details typically used for Analysis"
@@ -14,7 +14,8 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/social-media-tracker-for-analytics",
     "products": [
       "Power Appa",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "Power Apps Copilot"

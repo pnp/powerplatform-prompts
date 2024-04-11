@@ -14,13 +14,14 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/travel-itinerary/",
     "products": [
       "AI Builder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
-      "prompts","travel"
+      "prompts", "travel"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {

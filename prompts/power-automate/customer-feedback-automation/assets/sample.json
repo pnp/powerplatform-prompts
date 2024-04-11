@@ -14,7 +14,8 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/customer-feedback-automation",
     "products": [
       "Power Automate",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "Power Automate Copilot"

@@ -7,14 +7,15 @@
     "creationDateTime": "2023-09-25T00:00:00.000Z",
     "updateDateTime": "2023-09-25T00:00:00.000Z",
     "title": "Retail Grocery Portal",
-    "shortDescription": "Quick Stand up of an initial Portal in Power Pages", 
+    "shortDescription": "Quick Stand up of an initial Portal in Power Pages",
     "longDescription": [
       "This prompt helps quickly stand up a starter Main page for a Power Page based portal targeting the Grocery devision of a Food Retailer."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/dummy-text-generator/",
     "products": [
       "Power Pages",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "Site Page"

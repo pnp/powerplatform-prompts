@@ -12,10 +12,11 @@
       "This prompt helps with identifying hashtags from a text"
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/hashtags-creator/",
-     "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "prompts"

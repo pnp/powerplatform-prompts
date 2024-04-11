@@ -15,7 +15,8 @@
     "products": [
       "AI Builder",
       "AIBuilder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "CODE INTERPRETER"
