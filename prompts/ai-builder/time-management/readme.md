@@ -4,6 +4,8 @@
 
 Designs a schedule to optimize time usage
 
+![Output of the prompt](./assets/images/preview.png)
+
 ## Prompt
 
 Create a time management plan for a workday, given these tasks and priorities [priorities] . Take into account the meetings already in place for the day [meetings] and display a breakdown of focus allocations by time. Format response as HTML.
