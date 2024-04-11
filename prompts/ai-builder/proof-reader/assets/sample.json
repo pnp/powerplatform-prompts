@@ -14,13 +14,14 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/proof-reader/",
     "products": [
       "AI Builder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "PROOF READER"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {

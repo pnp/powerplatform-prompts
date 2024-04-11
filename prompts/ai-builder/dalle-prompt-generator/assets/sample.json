@@ -12,16 +12,17 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/dalle-prompt-generator/",
-      "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
-      "Power Platform"
+      "Power Platform",
+      "powerplatform-prompts"
     ],
     "tags": [
       "TEXT GENERATOR"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {
