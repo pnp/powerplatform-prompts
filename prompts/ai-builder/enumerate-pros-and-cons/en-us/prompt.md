@@ -1,0 +1,1 @@
+enumerate the pros and cons of the various project concepts detailed within this [Text]
