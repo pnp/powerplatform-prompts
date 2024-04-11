@@ -20,7 +20,7 @@ Feedback Classification | [Reid Schmidling](https://github.com/schmid1208)
 
 ## Minimal Path to Awesome
 
-* Log into Power Autoamte, or Power Apps
+* Log into Power Automate, or Power Apps
 * Along the left menu find AI Hub or AI Prompts
 * Create a new prompt
 * Copy the prompt
