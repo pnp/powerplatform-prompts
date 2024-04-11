@@ -34,8 +34,8 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/ai-builder/dalle-prompt-generator/assets/images/preview.png",
-        "alt": "Preview GIF"
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
       }
     ],
     "authors": [
