@@ -1,1 +1,1 @@
-Monitor and moderate the following user-generated content [content], flagging any items that violate these community guidelines [guidelines]. At the top of the message, say if there is or isn't a violation with an explanation of any potential violations below.
+Let someone ask HR questions, choosing from common HR subjects, then go into a condition for all HR subjects and confirm their HR subject.
