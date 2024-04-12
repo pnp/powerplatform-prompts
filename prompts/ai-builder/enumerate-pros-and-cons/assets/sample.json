@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-enumerate-pros-and-cons",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-12T00:00:00.000Z",
+    "updateDateTime": "2024-04-21T00:00:00.000Z",
+    "title": "Enumerate pros and cons",
+    "shortDescription": "This prompt helps with identifying pros and cons from a text.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/enumerate-pros-and-cons/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "Extract content"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Enumerate the pros and cons of the various project concepts detailed within this [text]."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Phil-cmd",
+        "name": "Philippe Larrue",
+        "pictureUrl": "https://github.com/Phil-cmd.png"
+      }
+    ]
+  }
+]
