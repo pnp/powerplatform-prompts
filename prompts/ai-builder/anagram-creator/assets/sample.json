@@ -14,8 +14,9 @@
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/anagram-creator/",
     "products": [
       "AI Builder",
+      "Power Platform",
       "powerplatform-prompts",
-      "Power Platform"
+      "ai-builder-prompts"
     ],
     "tags": [
       "prompts", "goals"

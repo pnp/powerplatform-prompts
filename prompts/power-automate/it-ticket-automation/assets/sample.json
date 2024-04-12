@@ -15,7 +15,8 @@
     "products": [
       "Power Automate",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "power-automate-prompts"
     ],
     "tags": [
       "Power Automate Copilot"

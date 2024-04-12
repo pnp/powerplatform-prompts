@@ -15,7 +15,8 @@
     "products": [
       "Power Apps",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "power-apps-prompts"
     ],
     "tags": [
       "Power Apps Copilot"

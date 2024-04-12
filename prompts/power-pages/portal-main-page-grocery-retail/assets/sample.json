@@ -15,7 +15,8 @@
     "products": [
       "Power Pages",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "power-pages-prompts"
     ],
     "tags": [
       "Site Page"

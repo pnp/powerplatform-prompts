@@ -16,7 +16,8 @@
       "AI Builder",
       "AIBuilder",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "ai-builder-prompts"
     ],
     "tags": [
       "prompts", "learning"
