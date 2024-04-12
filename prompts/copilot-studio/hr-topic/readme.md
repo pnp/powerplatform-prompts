@@ -21,7 +21,11 @@ HR Topic | [Daniel Laskewitz](https://github.com/laskewitz) ([@laskewitz](https:
 ## Minimal Path to Awesome
 
 * Copy the prompt
-* Paste prompt into the AI Builder Create Text with GPT Model
+* Go to Copilot Studio
+* Select **Topics** > **Create** > **Topic** > **Create from description with Copilot**
+* Name the topic **HR**
+* Paste prompt in **Create a topic to...** section 
+* Select **Create**
 
 ## Disclaimer
 
