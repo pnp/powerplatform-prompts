@@ -13,9 +13,10 @@
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/social-media-tracker-for-analytics",
     "products": [
-      "Power Appa",
+      "Power Apps",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "power-apps-prompts"
     ],
     "tags": [
       "Power Apps Copilot"
