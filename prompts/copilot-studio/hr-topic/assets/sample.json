@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-hr-topic",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-12T00:00:00.000Z",
+    "updateDateTime": "2024-04-12T00:00:00.000Z",
+    "title": "HR Topic",
+    "shortDescription": "This Copilot Studio prompt helps you create an HR topic with natural language.",
+    "longDescription": [
+      "This Copilot Studio prompt helps you create an HR topic with natural language. It will generate a question and a condition with options."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/cp[o;pt-studio/hr-topic/",
+    "products": [
+      "Power Platform",
+      "powerplatform-prompts",
+      "copilot-studio-prompts"
+    ],
+    "tags": [
+      "prompts"
+    ],
+    "categories": [
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Let someone ask HR questions, choosing from common HR subjects, then go into a condition for all HR subjects and confirm their HR subject."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]

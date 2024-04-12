@@ -1,6 +1,5 @@
 # Power Platform GPT Prompts
 
-
 Welcome to the "Power Platform GPT Prompts" repository! This is a collection of prompt examples to be used with GPT models in the Power Platform.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
