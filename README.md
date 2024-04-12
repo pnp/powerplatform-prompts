@@ -1,5 +1,4 @@
-<p align="center"><h1> Power Platform GPT Prompts</h1></p>
-
+# Power Platform GPT Prompts
 
 Welcome to the "Power Platform GPT Prompts" repository! This is a collection of prompt examples to be used with GPT models in the Power Platform.
 
@@ -13,15 +12,15 @@ We hope you find these prompts useful and have fun using GPT with the Power Plat
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
-# Prompts
+## Prompts
 
 To view all the prompts, [go to the overview](/prompts/README.md) of all the prompts.
 
-# Authors
+## Authors
 
 This repository's contributors are all community members who volunteered their time to share code samples. Work is done as an open source community project, which each sample contained in their own solution.
 
-# Contributions
+## Contributions
 
 These samples are direct from the feature teams, [PnP team](http://aka.ms/m365pnp) or shared by the community. We welcome your input on issues and suggestions for new samples. We do also welcome community contributions. If you have any questions, just let us know.
 
