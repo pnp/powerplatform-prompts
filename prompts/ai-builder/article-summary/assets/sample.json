@@ -12,17 +12,18 @@
       ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/article-summary",
-     "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "ai-builder-prompts"
     ],
     "tags": [
       "TEXT GENERATOR"
     ],
     "categories": [
-     "AI Builder"
+      "AI Builder"
     ],
     "metadata": [
       {

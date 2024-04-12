@@ -17,7 +17,8 @@
       "AIBuilder",
       "Power Platform",
       "Power Automate",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "ai-builder-prompts"
     ],
     "tags": [
       "TEXT GENERATOR",

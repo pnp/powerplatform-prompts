@@ -12,14 +12,15 @@
       "This prompt helps with identifying common names from a text."
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/common-names-identifier/",
-     "products": [
+    "products": [
       "AI Builder",
       "AIBuilder",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "ai-builder-prompts"
     ],
     "tags": [
-      "prompts","goals"
+      "prompts", "goals"
     ],
     "categories": [
       "AI Builder"

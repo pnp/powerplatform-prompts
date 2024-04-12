@@ -15,7 +15,8 @@
     "products": [
       "AI Builder",
       "Power Platform",
-      "powerplatform-prompts"
+      "powerplatform-prompts",
+      "ai-builder-prompts"
     ],
     "tags": [
       "prompts", "travel"
