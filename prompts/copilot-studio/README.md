@@ -1,3 +1,3 @@
-<p align="center"><h1>Power Virtual Agents Prompts</h1></p>
+# Copilot Studio Prompts
 
-In this directory you will find prompts that you can use in the GPT experiences for Power Virtual Agents.
+In this directory you will find prompts that you can use in the GPT experiences for Copilot Studio.
