@@ -1,0 +1,1 @@
+Extract all the links that were shared in the chat from the past 7 days

@@ -1,0 +1,1 @@
+Identify the type from this given [text] . Types can be: Narrative Text, Descriptive Text, Expository Text, Persuasive Text, Argumentative Text, Analytical Text, Critical Text, Technical Text, Scientific Text, Legal Text, Literary Text, Academic Text, Business Text, Advertising Text, Digital Text, Multimedia Text The answer should only contains the type of your text:.
