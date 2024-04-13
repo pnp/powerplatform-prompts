@@ -11,7 +11,7 @@
     "longDescription": [
       "This Copilot Studio prompt helps you create an HR topic with natural language. It will generate a question and a condition with options."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/cp[o;pt-studio/hr-topic/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/hr-topic/",
     "products": [
       "Power Platform",
       "powerplatform-prompts",

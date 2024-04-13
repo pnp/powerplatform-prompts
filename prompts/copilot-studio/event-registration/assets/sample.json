@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-event-registration",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-13T00:00:00.000Z",
+    "updateDateTime": "2024-04-13T00:00:00.000Z",
+    "title": "Event Registration",
+    "shortDescription": "This Copilot Studio prompt helps you create a topic for an Event Registration process with natural language.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/event-registration/",
+    "products": [
+      "Power Platform",
+      "powerplatform-prompts",
+      "copilot-studio-prompts"
+    ],
+    "tags": [
+      "prompts"
+    ],
+    "categories": [
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Let someone register for an event, choosing from a list of event names, and then providing their full name, email address, job title, company, and choosing from common dietary restrictions. Confirm their registration details."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "GomoMohapi",
+        "name": "Gomolemo Mohapi",
+        "pictureUrl": "https://github.com/GomoMohapi.png"
+      }
+    ]
+  }
+]
