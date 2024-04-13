@@ -1,0 +1,1 @@
+Let someone register for an event, choosing from a list of event names, and then providing their full name, email address, job title, company, and choosing from common dietary restrictions. Confirm their registration details.
