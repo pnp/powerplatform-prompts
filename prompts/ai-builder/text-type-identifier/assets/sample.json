@@ -9,6 +9,7 @@
     "title": "Text Type Identifier",
     "shortDescription": "This prompt helps with identifying a type from a text based on a list of types.",
     "longDescription": [
+      ""
     ],
     "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/text-type-identifier/",
     "products": [
