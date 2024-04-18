@@ -16,7 +16,7 @@ Identify the type from this given [text] . Types can be: Narrative Text, Descrip
 
 Solution|Author(s)
 --------|---------
-Enumerate pros and cons | [Philippe Larrue](https://github.com/Phil-cmd), Microsoft
+Text Type Identifier | [Philippe Larrue](https://github.com/Phil-cmd), Microsoft
 
 ## Minimal Path to Awesome
 
