@@ -11,7 +11,7 @@
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/lead-generation/lead-generation/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/lead-generation/",
     "products": [
       "Power Automate",
       "Power Platform",
@@ -26,8 +26,8 @@
     ],
     "metadata": [
       {
-        "key": "POWERAPPS-CUSTOMCONNECTOR",
-        "value": "No"
+        "key": "Prompt",
+        "value": "Create a workflow that captures new leads from Microsoft Forms and adds them to Dataverse. Set up an automated follow-up email sequence to nurture leads over time."
       }
     ],
     "thumbnails": [

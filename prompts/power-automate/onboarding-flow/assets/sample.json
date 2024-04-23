@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-onboarding-flow",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-01-04T00:00:00.000Z",
+    "updateDateTime": "2024-01-04T00:00:00.000Z",
+    "title": "Onboarding Flow",
+    "shortDescription": "This prompt helps setting up an onboarding flow.",
+    "longDescription": [
+      "Many times teams struggle with proper onboarding process due to the fact of adding user to many tools. It is time-consuming and can lead to mistakes. This flow can automate this process by adding user added to SharePoint list (access tracker) to selected Security Group which is assigned to many different Office Apps like SharePoint, Power Apps or Power BI. At one time we can grant access to all apps we need in our process."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/onboarding-flow/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Use trigger When an item is created or modified. Enter trigger Site Address custom value: 'YOUR SITE ADDRESS' and custom List Name value: 'YOUR LIST NAME'. Add Get user profile and use \"['SHAREPOINT FIELD STORING INFO ABOUT USER']?['Email']\" in UPN. Add Entra action Add member to group. As user Id enter id from Get User profile. As Group Id enter: 'YOUR SECURITY GROUP ID'. Send email to user added to the group. Fill in subject and body. At least 5 sentences."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "abozyk1990",
+        "name": "Andrzej Bożyk",
+        "pictureUrl": "https://github.com/abozyk1990.png"
+      }
+    ]
+  }
+]
