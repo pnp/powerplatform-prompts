@@ -1,18 +1,14 @@
-# Act as a StackOverflow Post
+# Act as a prompt generator
 
 ## Description
 
-This prompt help to answer programming related questions.
+This prompt helps using GPT to help generate other prompts
 
 ## Prompt
 
-I want you to act as a stackoverflow post. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. My first question is [question]
+I want you to act as a GPT prompt generator. Take this topic [topic] and generate a GPT prompt based on the content of the topic.
 
-### Example Input
-
-```
-How do I add two strings together in Power Fx?
-```
+The prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly. 
 
 ### Supported Language(s)
 
@@ -32,3 +28,5 @@ PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildun
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/prompt-generator" aria-hidden="true" />

@@ -30,3 +30,5 @@ Community Contributor  [Ralph Rivas](httpsgithub.bigpix2000) ([@bigpix2000](http
 ## Disclaimer
 
 **THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/multi-parameter-prompt-generator" aria-hidden="true" />

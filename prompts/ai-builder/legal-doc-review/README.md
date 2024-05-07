@@ -1,12 +1,12 @@
-# Smart Goal Setting
+# Legal Document Review
 
 ## Description
 
-This prompt helps define and track professional or personal goals
+This prompt automates the review of legal documents for key terms and clauses
 
 ## Prompt
 
-Develop a SMART goal-setting framework based on these long-term objectives and desired outcomes [text]
+Identify and summarize the key obligations and liabilities in the following contract [text]
 
 ### Supported Language(s)
 
@@ -16,7 +16,7 @@ Develop a SMART goal-setting framework based on these long-term objectives and d
 
 Solution|Author(s)
 --------|---------
-Smart Goal Setting | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
+Legal Doc Review | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
 
 ## Minimal Path to Awesome
 
@@ -26,3 +26,5 @@ Smart Goal Setting | [April Dunnam](https://github.com/aprildunnam) ([@aprildunn
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/legal-doc-review" aria-hidden="true" />

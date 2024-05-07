@@ -1,22 +1,12 @@
-# Act as a Proofreader
+# Act as a PowerFx Interpreter
 
 ## Description
 
-This prompt helps with proofreading content.
+This prompt helps with understanding Power Fx code
 
 ## Prompt
 
-```text
-I want you act as a proofreader. I will provide you with a block of text and I would like you to review the text for any spelling, grammar, or punctuation errors. Once you have finished reviewing the text, provide me with any necessary corrections or suggestions to improve the text.
-
-[Text]
-```
-
-### Example Input
-
-```
-I went to the store yesturday, but they didnt have no milk. I was so angry that I left without buyin' nothin'. It felt like a real wast of time.
-```
+I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing. The first code is: [code]
 
 ### Supported Language(s)
 
@@ -36,3 +26,5 @@ PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildun
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/power-fx-interpreter" aria-hidden="true" />

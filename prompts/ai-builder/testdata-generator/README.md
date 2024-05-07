@@ -18,13 +18,13 @@ UNESCO Buildings with properties Title and description
 
 ### Supported Language(s)
 
-[English](.en-usprompt.md)
+[English](.en-us/prompt.md)
 
 ## Authors
 
 Solution Author(s)
 -----------------
-Test Data Generator  [Reshmee Auckloo](https://github.com/reshmee011) ([@reshmeeauckloo](https://twitter.com/reshmeeauckloo))
+Test Data Generator | [Reshmee Auckloo](https://github.com/reshmee011) ([@reshmeeauckloo](https://twitter.com/reshmeeauckloo))
 
 ## Minimal Path to Awesome
 
@@ -34,3 +34,5 @@ Test Data Generator  [Reshmee Auckloo](https://github.com/reshmee011) ([@reshmee
 ## Disclaimer
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/testdata-generator" aria-hidden="true" />

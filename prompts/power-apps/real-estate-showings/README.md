@@ -24,3 +24,5 @@ Real Estate Showings | [Gomolemo Mohapi](https://www.github.com/GomoMohapi) ([@G
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/power-apps/real-estate-showings" aria-hidden="true" />

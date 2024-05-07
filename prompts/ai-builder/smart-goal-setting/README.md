@@ -1,12 +1,12 @@
-# Research Summary
+# Smart Goal Setting
 
 ## Description
 
-This prompt helps with summarizing research findings for easy digestion
+This prompt helps define and track professional or personal goals
 
 ## Prompt
 
-Summarize the key findings of the following research paper for a non-expert audience [text]
+Develop a SMART goal-setting framework based on these long-term objectives and desired outcomes [text]
 
 ### Supported Language(s)
 
@@ -16,7 +16,7 @@ Summarize the key findings of the following research paper for a non-expert audi
 
 Solution|Author(s)
 --------|---------
-Research Summary | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
+Smart Goal Setting | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
 
 ## Minimal Path to Awesome
 
@@ -26,3 +26,5 @@ Research Summary | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/smart-goal-setting" aria-hidden="true" />

@@ -1,12 +1,18 @@
-# Act as a PowerFx Interpreter
+# Act as a StackOverflow Post
 
 ## Description
 
-This prompt helps with understanding Power Fx code
+This prompt help to answer programming related questions.
 
 ## Prompt
 
-I want you to act like a Power Fx interpreter. I will give you Power Fx code, and you will reply back with an explanation of what the code is doing. The first code is: [code]
+I want you to act as a stackoverflow post. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. My first question is [question]
+
+### Example Input
+
+```
+How do I add two strings together in Power Fx?
+```
 
 ### Supported Language(s)
 
@@ -26,3 +32,5 @@ PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildun
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/stack-overflow-post" aria-hidden="true" />

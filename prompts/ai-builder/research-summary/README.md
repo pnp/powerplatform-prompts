@@ -1,12 +1,12 @@
-# Legal Document Review
+# Research Summary
 
 ## Description
 
-This prompt automates the review of legal documents for key terms and clauses
+This prompt helps with summarizing research findings for easy digestion
 
 ## Prompt
 
-Identify and summarize the key obligations and liabilities in the following contract [text]
+Summarize the key findings of the following research paper for a non-expert audience [text]
 
 ### Supported Language(s)
 
@@ -16,7 +16,7 @@ Identify and summarize the key obligations and liabilities in the following cont
 
 Solution|Author(s)
 --------|---------
-Legal Doc Review | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
+Research Summary | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
 
 ## Minimal Path to Awesome
 
@@ -26,3 +26,5 @@ Legal Doc Review | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/research-summary" aria-hidden="true" />

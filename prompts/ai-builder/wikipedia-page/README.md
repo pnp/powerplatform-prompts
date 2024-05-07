@@ -18,13 +18,13 @@ Ada Lovelace
 
 ### Supported Language(s)
 
-[English](.en-usprompt.md)
+[English](.en-us/prompt.md)
 
 ## Authors
 
 SolutionAuthor(s)
 -----------------
-PowerFx Interpreter  [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](httpstwitter.comaprildunnam)), Microsoft
+PowerFx Interpreter | [April Dunnam](https://github.com/aprildunnam) ([@aprildunnam](https://twitter.com/aprildunnam)), Microsoft
 
 ## Minimal Path to Awesome
 
@@ -34,3 +34,5 @@ PowerFx Interpreter  [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](
 ## Disclaimer
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/wikipedia-page" aria-hidden="true" />

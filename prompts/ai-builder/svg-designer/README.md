@@ -16,7 +16,7 @@ I would like you to act as an SVG designer. I will ask you to create images, and
 
 SolutionAuthor(s)
 -----------------
-PowerFx Interpreter  [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](httpstwitter.comaprildunnam)), Microsoft
+SVG Designer | [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](httpstwitter.comaprildunnam)), Microsoft
 
 ## Minimal Path to Awesome
 
@@ -26,3 +26,5 @@ PowerFx Interpreter  [April Dunnam](httpsgithub.comaprildunnam) ([@aprildunnam](
 ## Disclaimer
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/svg-designer" aria-hidden="true" />

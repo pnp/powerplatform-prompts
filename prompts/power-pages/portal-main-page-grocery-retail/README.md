@@ -10,13 +10,13 @@ As a Food Retail Marketing Executive, I need a snazzy looking portal site for ou
 
 ### Supported Language(s)
 
-[English](.en-usprompt.md)
+[English](.en-us/prompt.md)
 
 ## Authors
 
 SolutionAuthor(s)
 -----------------
-Community Contributor  [Ralph Rivas](httpsgithub.bigpix2000) ([@bigpix2000](httpstwitter.bigpix2000)), M365Chicago
+Community Contributor | [Ralph Rivas](https://github.com/bigpix2000) ([@bigpix2000](https://twitter.com/bigpix2000)), M365Chicago
 
 ## Minimal Path to Awesome
 
@@ -27,3 +27,5 @@ Community Contributor  [Ralph Rivas](httpsgithub.bigpix2000) ([@bigpix2000](http
 ## Disclaimer
 
 **THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/power-pages/portal-main-page-grocery-retail" aria-hidden="true" />
