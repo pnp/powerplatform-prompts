@@ -26,3 +26,5 @@ Encode text into a Base64 format | [Philippe Larrue](https://github.com/Phil-cmd
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/encode-text-into-a-base64-format" aria-hidden="true" />
