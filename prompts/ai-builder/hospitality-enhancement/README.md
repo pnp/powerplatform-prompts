@@ -26,3 +26,5 @@ Hospitality Enhancement | [April Dunnam](https://github.com/aprildunnam) ([@apri
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/hospitality-enhancement" aria-hidden="true" />
