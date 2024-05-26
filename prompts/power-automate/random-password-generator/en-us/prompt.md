@@ -1,0 +1,1 @@
+Build a workflow that routes employee timesheets submitted in [Start of Text] SharePoint [End of Text] for approval from the employee's manager. If the manager approvers, send another approval to HR.  If the manager rejects, notify the submitter and end the workflow. 
