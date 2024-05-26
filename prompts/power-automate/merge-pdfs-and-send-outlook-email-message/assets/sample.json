@@ -1,7 +1,7 @@
 [
     {
       "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
-      "name": "pnp-powerplatform-prompts-merge-pdfs-and-send-outlook-email-messagemerge-pdfs-and-send-outlook-email-message",
+      "name": "pnp-powerplatform-prompts-merge-pdfs-and-send-outlook-email-message",
       "version": "1.0.0.0",
       "source": "pnp",
       "creationDateTime": "2024-05-26T00:00:00.000Z",
