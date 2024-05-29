@@ -1,0 +1,50 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-merge-pdfs-and-send-outlook-email-message",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-05-26T00:00:00.000Z",
+      "updateDateTime": "2024-05-26T00:00:00.000Z",
+      "title": "Merge PDF files and send merged file as an attachment in an Outlook email message",
+      "shortDescription": "This Power Automate for desktop Copilot prompt helps with merging PDF files and sending the merged file as an attachment in an Outlook email message.",
+      "longDescription": [
+        "This Power Automate for desktop Copilot prompt helps with merging PDF files and sending the merged file as an attachment in an Outlook email message."
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/merge-pdfs-and-send-outlook-email-message",
+      "products": [
+        "Power Automate",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-automate-prompts"
+      ],
+      "tags": [
+        "Power Automate for desktop Copilot"
+      ],
+      "categories": [
+        "Power Automate"
+      ],
+      "metadata": [
+        {
+          "key": "POWERAPPS-CUSTOMCONNECTOR",
+          "value": "No"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/timesheet-approval-automation/assets/images/preview.png",
+          "alt": "Preview of prompt in Power Automate for desktop Copilot"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "elaizabenitez",
+          "name": "Elaiza Benitez",
+          "pictureUrl": "https://github.com/elaizabenitez.png"
+        }
+      ]
+    }
+  ]
+  
