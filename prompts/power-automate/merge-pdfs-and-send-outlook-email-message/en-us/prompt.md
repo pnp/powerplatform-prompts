@@ -1,0 +1,1 @@
+I want to create automation that prompts the user to select PDF files to merge where the chosen files are merged, and then send an email through Outlook to [email address] with the merged PDF files as an attachment
