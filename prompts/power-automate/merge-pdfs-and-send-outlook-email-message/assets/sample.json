@@ -34,7 +34,7 @@
         {
           "type": "image",
           "order": 100,
-          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/timesheet-approval-automation/assets/images/preview.png",
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/merge-pdfs-and-send-outlook-email-message/assets/images/preview.png",
           "alt": "Preview of prompt in Power Automate for desktop Copilot"
         }
       ],
