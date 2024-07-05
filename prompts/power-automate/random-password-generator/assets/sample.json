@@ -1,0 +1,50 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-random-password-generator",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-05-26T00:00:00.000Z",
+      "updateDateTime": "2024-05-26T00:00:00.000Z",
+      "title": "Random Password Generator",
+      "shortDescription": "This Power Automate for desktop Copilot prompt helps with building a random password generator.",
+      "longDescription": [
+        "This Power Automate for desktop Copilot prompt helps with building a random password generator."
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/random-password-generator",
+      "products": [
+        "Power Automate",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-automate-prompts"
+      ],
+      "tags": [
+        "Power Automate for desktop Copilot"
+      ],
+      "categories": [
+        "Power Automate"
+      ],
+      "metadata": [
+        {
+          "key": "Prompt",
+          "value": "Create a password generator. Prompt the user to select the length and the complexity of the passsword"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/random-password-generator/assets/images/preview.png",
+          "alt": "Preview of prompt in Power Automate for desktop Copilot"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "elaizabenitez",
+          "name": "Elaiza Benitez",
+          "pictureUrl": "https://github.com/elaizabenitez.png"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-outlook-attachments-distribution",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-11-09T00:00:00.000Z",
+    "updateDateTime": "2023-11-09T00:00:00.000Z",
+    "title": "Outlook Attachments Distribution",
+    "shortDescription": "This prompt helps with distributing new arrived email attachments between team members.",
+    "longDescription": [
+      "This prompt helps with distributing new arrived email attachments between team members. Each attachment is saved in OneDrive for Business and new sharable link is created. After that message is posted in Teams channel informing team members about new file. In case of lack of files team members are also informed about mail without attachments. Last step is archiving email. This workflow can be useful in scenarios where one team member receive file from system and must share with other members."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/outlook-attachments-distribution/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "When a new email arrives to my inbox check if email has attachments. If yes, save them in onedrive for business and share. After saving action send teams message for each file. If there is no attachment send teams message. Add last step which is archiving the email."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "abozyk1990",
+        "name": "Andrzej Bożyk",
+        "pictureUrl": "https://github.com/abozyk1990.png"
+      }
+    ]
+  }
+]

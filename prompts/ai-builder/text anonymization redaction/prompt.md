@@ -1,0 +1,1 @@
+Given a [text] containing sensitive information such as names, locations, or personal details, develop a process to anonymize or redact this information, ensuring that the privacy of individuals is protected while preserving the overall meaning and coherence of the text.
