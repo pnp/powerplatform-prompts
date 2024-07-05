@@ -1,1 +1,1 @@
-Let someone evaluate their career, choosing from a list of strengths, and choosing from a list of weaknesses, and then providing their full name, job title, career goals, and any roles they would like to explore. Confirm their input
+Let someone evaluate their career, choosing from a list of strengths, and choosing from a list of weaknesses, and then providing their full name, job title, career goals, and any roles they would like to explore. Confirm their input.
