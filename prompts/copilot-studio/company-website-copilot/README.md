@@ -24,7 +24,10 @@ Company Website Copilot | [Daniel Laskewitz](https://github.com/laskewitz) ([@La
 * Go to Copilot Studio
 * Enter the text in the textbox below the "Describe your copilot to create it" text.
 * Select the **Send** icon (paper plane)
-* Configure your copilot in the way you want.
+* For the next question, enter the following text: `Please answer the questions concisely and in a friendly way.`
+* Add your company website, for instance: `www.microsoft.com`
+* Send the following text to avoid that the copilot will answer topics about other topics: `Topics that are not related to the website.`
+* Create your copilot
 
 ## Disclaimer
 
