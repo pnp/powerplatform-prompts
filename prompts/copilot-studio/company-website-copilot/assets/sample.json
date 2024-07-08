@@ -25,8 +25,20 @@
     ],
     "metadata": [
       {
-        "key": "Prompt",
+        "key": "Initial Prompt",
         "value": "I want this copilot to be a copilot that can answer questions a user might have based on information on our website. Our website is a website that will highlight our products, services and more."
+      },
+      {
+        "key": "Instructions Prompt",
+        "value": "Please answer the questions concisely and in a friendly way."
+      },
+      {
+        "key": "Website Prompt",
+        "value": "www.microsoft.com"
+      },
+      {
+        "key": "Avoid Prompt",
+        "value": "Topics that are not related to the website."
       }
     ],
     "thumbnails": [

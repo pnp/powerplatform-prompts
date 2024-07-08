@@ -2,7 +2,7 @@
 
 ## Description
 
-This Copilot Studio prompt helps you create a copilot for a company website.
+The Copilot Studio prompts below help you create a copilot for a company website.
 
 ## Prompts
 
@@ -12,15 +12,15 @@ This scenario will exist of multiple prompts.
 
 I want this copilot to be a copilot that can answer questions a user might have based on information on our website. Our website is a website that will highlight our products, services and more.
 
-### Instructions prompt
+### Instructions Prompt
 
 Please answer the questions concisely and in a friendly way.
 
-### Website prompt
+### Website Prompt
 
 www.microsoft.com
 
-### Avoid prompt
+### Avoid Prompt
 
 Topics that are not related to the website.
 
