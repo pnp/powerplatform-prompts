@@ -11,7 +11,7 @@
       "longDescription": [
         "This prompt helps you create a course registration app that allows users to register for courses. It uses the new Power Apps Copilot data experience to help you build a multi-table, multi-screen app."
       ],
-      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/company-website-copilot/",
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/course-registration/",
       "products": [
         "Power Apps",
         "Power Platform",
