@@ -1,12 +1,12 @@
-# Meeting Minutes Generator Topic
+# Project Brief Creator Topic
 
 ## Description
 
-This Copilot Studio prompt assists in creating a structured summary of meeting minutes by guiding users to capture key details efficiently.
+This Copilot Studio prompt helps in crafting a detailed project brief by guiding users through essential project details.
 
 ## Prompt
 
-Guide users in generating meeting minutes by asking them to specify the meeting date, participants, main discussion points, decisions made, and action items. Confirm their input to ensure completeness and accuracy.
+Assist users in creating a project brief by having them provide the project name, objectives, scope, key deliverables, timeline, and stakeholders. Confirm their input to ensure all critical aspects are covered.
 
 ### Supported Language(s)
 
@@ -18,7 +18,7 @@ Guide users in generating meeting minutes by asking them to specify the meeting 
 
 Solution|Author(s)
 --------|---------
-Meeting Minutes Generator Topic | [Renato Romão](https://github.com/renatoromao) ([@renatooromao](https://www.linkedin.com/in/renatoromao/)), Storm Technology
+Project Brief Creator Topic | [Renato Romão](https://github.com/renatoromao) ([@renatooromao](https://www.linkedin.com/in/renatoromao/)), Storm Technology
 
 ## Minimal Path to Awesome
 
@@ -26,7 +26,7 @@ Meeting Minutes Generator Topic | [Renato Romão](https://github.com/renatoromao
 * Go to [Copilot Studio](https://copilotstudio.microsoft.com/)
 * Open your **Copilot** 
 * Select **Topics** > **Add a topic** > **Create from description with Copilot**
-* Name the topic **Meeting Minutes Generator**
+* Name the topic **Project Brief Creator**
 * Paste prompt in **Create a topic to...** section
 * Select **Create**
 

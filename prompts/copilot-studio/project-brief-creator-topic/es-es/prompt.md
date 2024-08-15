@@ -1,0 +1,1 @@
+Ayude a los usuarios a crear un resumen del proyecto, pidiéndoles que proporcionen el nombre del proyecto, objetivos, alcance, entregables clave, cronograma y partes interesadas. Confirme sus entradas para asegurar que se cubran todos los aspectos críticos.

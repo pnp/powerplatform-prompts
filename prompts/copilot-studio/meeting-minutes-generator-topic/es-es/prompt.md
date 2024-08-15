@@ -1,1 +1,0 @@
-Guíe a los usuarios en la generación de actas de reuniones, pidiéndoles que especifiquen la fecha de la reunión, los participantes, los puntos principales de discusión, las decisiones tomadas y las acciones a realizar. Confirme sus entradas para asegurar la integridad y precisión.
