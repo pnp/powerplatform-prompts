@@ -1,0 +1,1 @@
+Create an app to manage student course registration, including students, courses, registrations, instructors, and departments.
