@@ -1,0 +1,1 @@
+Guide someone in creating documentation by asking them to specify the purpose of the document, the intended audience, and the main sections they want to include. Confirm their input.

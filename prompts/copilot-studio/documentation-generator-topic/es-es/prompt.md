@@ -1,0 +1,1 @@
+Guía a alguien en la creación de documentación pidiéndole que especifique el propósito del documento, el público objetivo y las secciones principales que desea incluir. Confirma su entrada.
