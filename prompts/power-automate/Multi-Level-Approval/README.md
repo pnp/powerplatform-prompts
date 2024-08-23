@@ -9,7 +9,6 @@ I need you to create a three stage approval process, based on when a Microsoft f
 
 ![Copilot to create approval flows in powerautomate](https://github.com/Steinsgame/powerplatform-prompts/blob/patch-4/prompts/power-automate/Multi-Level-Approval/assets/ASSET.png)
 
-[Open in Power Automate](https://make.powerautomate.com/create/fromNaturalLanguage?prompt=Build%20a%20workflow%20that%20gets%20customer%20feedback%20from%20%5BStart%20of%20Text%5D%20Microsoft%20Forms%20%5BEnd%20of%20Text%5D%20and%20adds%20the%20feedback%20to%20%5BStart%20of%20Text%5DSharePoint%20%5BEnd%20of%20Text%5D.%20Send%20an%20email%20follow%20up%20to%20the%20submitter.%20Include%20text%20in%20the%20body%20that%20thanks%20them%20for%20submitting%20feedback.&from=Copilot&utm_source=PromptLibrary)
 
 
 ### Supported Language(s)
@@ -31,4 +30,4 @@ Multi-Level-Approval | [Joseph Fadero](https://github.com/Steinsgame) ([@Joseph_
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/power-automate/customer-feedback-automation" aria-hidden="true" />
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/power-automate/Multi-Level-Approval" aria-hidden="true" />
