@@ -1,0 +1,1 @@
+Calculate sum of all [nodename] from [xmldata].
