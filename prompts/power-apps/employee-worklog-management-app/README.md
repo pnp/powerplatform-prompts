@@ -20,12 +20,12 @@ Create an app to manage employee worklogs, including multiple tables for employe
 
 Solution|Author(s)
 --------|---------
-Employee Worklog Management App | [Summit Bajracharya](https://www.github.com/summitbaj) ([@SummitBajracharya](https://twitter.com/SummitBajracharya)), Signetic
+Employee Worklog Management App | [Summit Bajracharya](https://www.github.com/summitbaj) ([@summitbaj](https://twitter.com/imsumit)), Signetic
 
 ## Minimal Path to Awesome
 
 * Copy the prompt
-* Paste prompt into the tool of your choice (AIBuilder Azure Open AI, Power Apps Copilot, etc)
+* Paste prompt into the Power Apps Co-pilot
 
 ## Disclaimer
 
