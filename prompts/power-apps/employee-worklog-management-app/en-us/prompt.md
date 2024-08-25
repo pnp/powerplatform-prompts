@@ -1,0 +1,1 @@
+Create an app to manage employee worklogs, including multiple tables for employees, supervisors, daily worklogs, approval workflows, and departments.
