@@ -1,7 +1,7 @@
 [
   {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
-    "name": "pnp-powerplatform-prompts-event-registration",
+    "name": "pnp-powerplatform-prompts-event-registration-topic",
     "version": "1.0.0.0",
     "source": "pnp",
     "creationDateTime": "2024-04-13T00:00:00.000Z",
@@ -11,7 +11,7 @@
     "longDescription": [
       ""
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/event-registration/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/event-registration-topic/",
     "products": [
       "Power Platform",
       "powerplatform-prompts",

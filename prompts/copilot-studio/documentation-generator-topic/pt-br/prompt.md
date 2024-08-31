@@ -1,0 +1,1 @@
+Guie alguém na criação de documentação, pedindo que especifique o propósito do documento, o público-alvo e as principais seções que deseja incluir. Confirme as informações fornecidas.

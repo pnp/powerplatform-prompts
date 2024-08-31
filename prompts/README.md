@@ -6,6 +6,10 @@ The prompts are divided in multiple directories:
 
 In this directory you will find prompts that you can use in the AI Builder GPT actions both in Power Apps as well as Power Automate.
 
+## [copilot-studio](copilot-studio)
+
+In this directory you will find prompts that you can use in the copilot experiences in Copilot Studio.
+
 ## [power-apps](power-apps)
 
 In this directory you will find prompts that you can use in the Power Apps Copilot, that will enable you to build and edit apps with prompts.
@@ -13,7 +17,3 @@ In this directory you will find prompts that you can use in the Power Apps Copil
 ## [power-automate](power-automate)
 
 In this directory you will find prompts that you can use in the Power Automate Copilot, that will enable you to build and edit flows with prompts.
-
-## [power-virtual-agents](power-virtual-agents)
-
-In this directory you will find prompts that you can use in the GPT experiences for Power Virtual Agents.

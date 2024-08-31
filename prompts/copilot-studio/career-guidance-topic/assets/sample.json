@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-career-guidance-topic",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-07-05T00:00:00.000Z",
+    "updateDateTime": "2024-07-05T00:00:00.000Z",
+    "title": "Career Guidance Topic",
+    "shortDescription": "This Copilot Studio prompt helps you create a topic for the beginning of a career guidance conversation by prompting for the necessary information from the user.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/career-guidance-topic/",
+    "products": [
+      "Power Platform",
+      "powerplatform-prompts",
+      "copilot-studio-prompts"
+    ],
+    "tags": [
+      "prompts"
+    ],
+    "categories": [
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Let someone evaluate their career, choosing from a list of strengths, and choosing from a list of weaknesses, and then providing their full name, job title, career goals, and any roles they would like to explore. Confirm their input."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "GomoMohapi",
+        "name": "Gomolemo Mohapi",
+        "pictureUrl": "https://github.com/GomoMohapi.png"
+      }
+    ]
+  }
+]
