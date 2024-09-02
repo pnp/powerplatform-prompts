@@ -15,8 +15,8 @@ This prompt helps with converting text files into JSON structure based on the pr
 
 Solution|Author(s)
 --------|---------
-Process Text to JSON | [Douglas Romão](https://www.github.com/douglasromao) ([@LINKEDIN-USERNAME](hhttps://www.linkedin.com/in/douglas-romao/)), Romão's
-Process Text to JSON | [Renato Romão](https://www.github.com/renatoromao) ([@LINKEDIN-USERNAME](hhttps://www.linkedin.com/in/renatoromao/)), Romão's
+Process Text to JSON | [Douglas Romão](https://www.github.com/douglasromao) ([@LINKEDIN-USERNAME](https://www.linkedin.com/in/douglas-romao/)), Romão's
+Process Text to JSON | [Renato Romão](https://www.github.com/renatoromao) ([@LINKEDIN-USERNAME](https://www.linkedin.com/in/renatoromao/)), Romão's
 
 ## Minimal Path to Awesome
 
