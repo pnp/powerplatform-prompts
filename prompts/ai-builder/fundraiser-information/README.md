@@ -1,4 +1,4 @@
-# Text Type Identifier
+# Fundraiser Information
 
 ## Description
 
@@ -6,7 +6,7 @@ This prompt helps with providing information on fundraisers using an input varia
 
 ## Prompt
 
-Answer in English as bullet points in a professional tone. Provide details on {Fundraiser.Name} {Fundraiser.Category} {Fundraiser.Total Donations} {Fundraiser. Goal} and please mentioned the [user question] in the header of the response..
+Answer in English as bullet points in a professional tone. Provide details on {Fundraiser.Name} {Fundraiser.Category} {Fundraiser.Total Donations} {Fundraiser. Goal} and please mentioned the [user question] in the header of the response.
 
 ### Supported Language(s)
 
@@ -50,4 +50,4 @@ For a step-by-step walkthrough, watch [Build prompt actions for your copilot](ak
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/text-type-identifier" aria-hidden="true" />
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/fundraiser-information" aria-hidden="true" />
