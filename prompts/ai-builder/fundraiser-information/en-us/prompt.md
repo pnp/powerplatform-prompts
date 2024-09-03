@@ -1,0 +1,1 @@
+Answer in English as bullet points in a professional tone. Provide details on {Fundraiser.Name} {Fundraiser.Category} {Fundraiser.Total Donations} {Fundraiser. Goal} and please mentioned the [user question] in the header of the response.

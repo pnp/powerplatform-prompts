@@ -1,0 +1,51 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-fundraiser-information",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-09-02T00:00:00.000Z",
+    "updateDateTime": "2024-09-02T00:00:00.000Z",
+    "title": "Fundraiser information",
+    "shortDescription": "This prompt helps with providing information on fundraisers using an input variable and data from the Dataverse table, Fundraiser, in the sample Fundraiser Power Apps model-driven app.",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/fundraiser-information/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "Content-generation"
+    ],
+    "categories": [
+      "AI Builder",
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Answer in English as bullet points in a professional tone. Provide details on {Fundraiser.Name} {Fundraiser.Category} {Fundraiser.Total Donations} {Fundraiser. Goal} and please mentioned the [user question] in the header of the response."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "elaizabenitez",
+        "name": "Elaiza Benitez",
+        "pictureUrl": "https://github.com/elaizabenitez.png"
+      }
+    ]
+  }
+]
