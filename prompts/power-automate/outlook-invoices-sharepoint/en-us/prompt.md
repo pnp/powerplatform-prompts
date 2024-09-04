@@ -1,0 +1,3 @@
+when an email arrives with subject filter as invoices, store the attachments to Retail SharePoint site and documents folder. once the file is created move email into Archive folder.
+
+[Open in Power Automate](https://make.powerautomate.com/create/fromNaturalLanguage?prompt=when%20an%20email%20arrives%20with%20subject%20filter%20as%20invoices,%20store%20the%20attachments%20to%20Retail%20SharePoint%20site%20and%20documents%20folder.%20once%20the%20file%20is%20created%20move%20email%20into%20Archive%20folder.&from=Copilot&utm_source=PromptLibrary)
