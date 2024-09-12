@@ -1,0 +1,1 @@
+Fetch leave details from a SharePoint list whenever a new item is added. Retrieve the employee's manager and send an approval request to manager. Update the SharePoint list based on the manager's decision. Finally, send an email and a Teams message to the employee with the final approval status.
