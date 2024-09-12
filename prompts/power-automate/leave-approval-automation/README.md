@@ -1,4 +1,4 @@
-# YOUR PROMPT NAME 
+# Leave Approval Automation
 
 <!--
 Replace the name 
