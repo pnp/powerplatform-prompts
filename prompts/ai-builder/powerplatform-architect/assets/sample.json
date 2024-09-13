@@ -38,7 +38,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/powerplatform-architect/assets/architectresponse.png",
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
         "alt": "Preview GIF"
       }
     ],
