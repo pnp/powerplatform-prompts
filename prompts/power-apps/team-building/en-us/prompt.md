@@ -1,0 +1,1 @@
+Build an app to manage team-building activities, where participants are linked to events, locations, facilitators, and feedback forms.

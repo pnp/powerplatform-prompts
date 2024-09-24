@@ -1,0 +1,51 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-power-apps-team-building",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-08-21T00:00:00.000Z",
+      "updateDateTime": "2024-08-21T00:00:00.000Z",
+      "title": "Team Building App",
+      "shortDescription": "This Power Apps prompt helps you create a team building",
+      "longDescription": [
+        "This prompt helps you create a team building app that allows to track feedback. It uses the new Power Apps Copilot data experience to help you build a multi-table, multi-screen app."
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/team-building/",
+      "products": [
+        "Power Apps",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-apps-prompts"
+      ],
+      "tags": [
+        "prompts",
+        "Power Apps Copilot"
+      ],
+      "categories": [
+        "Power Apps"
+      ],
+      "metadata": [
+        {
+          "key": "POWERAPPS-CUSTOMCONNECTOR",
+          "value": "No"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+          "alt": "Preview PNG"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "ValerasNarbutas",
+          "name": "Valeras Narbutas",
+          "pictureUrl": "https://github.com/ValerasNarbutas.png"
+        }
+      ]
+    }
+  ]
+  
