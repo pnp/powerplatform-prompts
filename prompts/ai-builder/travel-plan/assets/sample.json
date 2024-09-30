@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-travel-plan",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-08-27T00:00:00.000Z",
+    "updateDateTime": "2024-08-27T00:00:00.000Z",
+    "title": "Travel Plan",
+    "shortDescription": "This prompt generates a travel plan for a location with a number of activities.",
+    "longDescription": [
+      "This prompt generates a travel plan for a location with a number of activities."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/travel-plan/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "prompts", "travel"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Pease give me [Number] options for activities in [Destination] for people who are there for the first time. Please return a numbered list with emojis in the name of the activity and give it a brief description."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]

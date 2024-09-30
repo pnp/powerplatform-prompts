@@ -1,0 +1,1 @@
+Pease give me [Number] options for activities in [Destination] for people who are there for the first time. Please return a numbered list with emojis in the name of the activity and give it a brief description.
