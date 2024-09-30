@@ -1,0 +1,53 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-music-partner",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-09-13T00:00:00.000Z",
+    "updateDateTime": "2024-09-13T00:00:00.000Z",
+    "title": "PowerPlatform architect Prompt",
+    "shortDescription": "This prompt helps with generating music, lyrics, note sheet with axample of powershell script. Input is just your mood.",
+    "longDescription": [
+      "This prompt helps with generating music, lyrics, note sheet with axample of powershell script. Input is just your mood."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/music-partner/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "I want you to act as a music composition partner. I will share a mood or theme, and you will suggest chord progressions, melodies, or lyrics to match the idea. response should also include powershell script for the melody and sheet of notes. My first request is: [request]."
+      },
+      {
+        "key": "Example Input",
+        "value": "i am happy and it is autumn"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ValerasNarbutas",
+        "name": "Valeras Narbutas",
+        "pictureUrl": "https://github.com/ValerasNarbutas.png"
+      }
+    ]
+  }
+]
