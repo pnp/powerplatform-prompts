@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-outlook-invoices-sharepoint",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-11-09T00:00:00.000Z",
+    "updateDateTime": "2023-11-09T00:00:00.000Z",
+    "title": "Outlook Invoices SharePoint",
+    "shortDescription": "This prompt helps with Invoices management when a new email arrives.",
+    "longDescription": [
+      "This prompt helps with Invoices management when a new email arrives, it will check for the subject filter as Invoice and attachments. If attachments found store it in SharePoint and move the email to archive."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/outlook-invoices-sharepoint/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "when an email arrives with subject filter as invoices, store the attachments to Retail SharePoint site and documents. once the file is created move email into Archive."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Jitenparmar",
+        "name": "Jiten Parmar",
+        "pictureUrl": "https://github.com/Jitenparmar.png"
+      }
+    ]
+  }
+]
