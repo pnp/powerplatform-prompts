@@ -1,0 +1,53 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-powerplatform-architect",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-09-13T00:00:00.000Z",
+    "updateDateTime": "2024-09-13T00:00:00.000Z",
+    "title": "PowerPlatform architect Prompt",
+    "shortDescription": "This prompt helps with generating plan for bussiness process focusing on powerplatform",
+    "longDescription": [
+      "This prompt helps with generating plan for bussiness process focusing on powerplatform"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/powerplatform-architect/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "I would like you to act as a Power Platform Architect. I will ask you to provide architectural solutions for business cases, and you will come up with the best architecture, outlining the Power Platform components to use, key integrations, and step-by-step implementation requirements. Your response should include clear and concise steps without any additional text or code blocks. My first request is: [request]"
+      },
+      {
+        "key": "Example Input",
+        "value": "I have invoice approval process with 2 level approval for line manager and serviceline lead. Invoices are submited in sharepoint online library. I need whole approval automated"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ValerasNarbutas",
+        "name": "Valeras Narbutas",
+        "pictureUrl": "https://github.com/ValerasNarbutas.png"
+      }
+    ]
+  }
+]
