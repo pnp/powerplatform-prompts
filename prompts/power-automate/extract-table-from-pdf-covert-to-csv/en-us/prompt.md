@@ -1,1 +1,0 @@
-Extract table from [source pdf filepath]. Display message if file not found. Save extracted table in csv format at [target csv filepath]
