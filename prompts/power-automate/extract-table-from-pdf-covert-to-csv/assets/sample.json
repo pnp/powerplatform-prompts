@@ -11,7 +11,7 @@
       "longDescription": [
         "This Power Automate for desktop Copilot prompt helps in extracting table from a PDF file and covert it to csv format. Save the csv data at a specific output file path."
       ],
-      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/extract-table-from-pdf-covert-to-csv/",
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/extract-table-from-pdf-covert-to-csv",
       "products": [
         "Power Automate",
         "Power Platform",
