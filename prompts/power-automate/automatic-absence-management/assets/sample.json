@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-customer-feedback-automation",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-07-23T00:00:00.000Z",
+    "updateDateTime": "2023-07-23T00:00:00.000Z",
+    "title": "Customer Feedback Automation",
+    "shortDescription": "This Power Automate Copilot prompt helps with automating customer feedback.",
+    "longDescription": [
+      "his Power Automate Copilot prompt helps with automating customer feedback."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/customer-feedback-automation",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/customer-feedback-automation/assets/images/preview.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]
