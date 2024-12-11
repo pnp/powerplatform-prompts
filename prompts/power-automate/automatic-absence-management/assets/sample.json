@@ -34,7 +34,8 @@
       {
         "type": "image",
         "order": 100,
-        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/automatic-absence-management/assets/images/preview.png",
+        
+        "url": "https://raw.githubusercontent.com/script32/powerplatform-prompts/main/prompts/power-automate/automatic-absence-management/assets/images/preview.png",
         "alt": "Preview GIF"
       }
     ],
