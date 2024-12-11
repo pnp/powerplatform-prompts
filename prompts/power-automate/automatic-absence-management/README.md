@@ -37,7 +37,7 @@ Actions:
 
 Solution|Author(s)
 --------|---------
-Automatic Absence Management | [Cristian Rodriguez](hhttps://github.com/script32)
+Automatic Absence Management | [Cristian Rodriguez](https://github.com/script32)
 
 ## Minimal Path to Awesome
 
