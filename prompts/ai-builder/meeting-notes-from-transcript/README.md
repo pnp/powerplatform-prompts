@@ -2,7 +2,7 @@
 
 ## Description
 
-This prompt helps with generating meeting notes from the transcript of a recorded meeting. Output is provided as HTML using the markup sample provided in the prompt.
+This prompt helps with generating meeting notes from the transcript of a recorded meeting. Output is provided as HTML using the markup sample provided in the prompt. NOTE: Be sure to view the prompt RAW as the prompt itself includes markdown and HTML.
 
 ## Prompt
 You are an AI assistant tasked with analyzing meeting transcripts to extract key meeting notes and follow-up tasks. Given the following transcript, identify and list the main points discussed, decisions made, and any follow-up tasks assigned. Format the output in HTML to ensure clarity and readability. Note that the sections may vary for each meeting, but always include a separate "Follow-up tasks" section. 
