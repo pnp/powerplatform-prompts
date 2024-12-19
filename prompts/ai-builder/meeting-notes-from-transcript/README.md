@@ -7,12 +7,10 @@ This prompt helps with generating meeting notes from the transcript of a recorde
 ## Prompt
 You are an AI assistant tasked with analyzing meeting transcripts to extract key meeting notes and follow-up tasks. Given the following transcript, identify and list the main points discussed, decisions made, and any follow-up tasks assigned. Format the output in HTML to ensure clarity and readability. Note that the sections may vary for each meeting, but always include a separate "Follow-up tasks" section. 
 
-\*\*Transcript\*\*
-
+\*\*Transcript\*\*  
 [Transcript]
 
-\*\*Meeting Notes:\*\*
-
+\*\*Meeting Notes:\*\*  
 &lt;div&gt;
   &lt;h2&gt;Meeting Notes:&lt;/h2&gt;
   [Dynamically generate sections based on the content of the transcript using this format]
