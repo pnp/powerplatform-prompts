@@ -1,0 +1,52 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-basic-contract-generation",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-10-08T00:00:00.000Z",
+      "updateDateTime": "2024-10-08T00:00:00.000Z",
+      "title": "Basic Contract Generation",
+      "shortDescription": "This prompt generates a professional contract using client-provided data.",
+      "longDescription": [
+        "This solution leverages AI Builder, Power Automate, and SharePoint to automate the generation of professional contracts. It dynamically fills a Word template with inputs such as client name, address, services, and terms, producing a ready-to-use document in Word or PDF format."
+      ],
+      "url": "https://github.com/script32/powerplatform-prompts/tree/main/prompts/ai-builder/basic-contract-generation/",
+      "products": [
+        "AI Builder",
+        "Power Automate",
+        "Power Platform",
+        "powerplatform-prompts",
+        "ai-builder-prompts"
+      ],
+      "tags": [
+        "Contract generation",
+        "Automation"
+      ],
+      "categories": [
+        "AI Builder"
+      ],
+      "metadata": [
+        {
+          "key": "Prompt",
+          "value": "Generate a professional service contract based on the following inputs: Client Name: [ClientName], Client Address: [ClientAddress], Start Date: [StartDate], Services Included: [Services], Contract Duration: [Duration], Additional Terms: [Terms]. The contract must include a formal introduction, clear service details, terms and conditions, and a section for signatures. Format it professionally."
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/script32/powerplatform-prompts/main/templates/previewprompts.png",
+          "alt": "Preview of Basic Contract Generation Prompt"
+        }
+      ],
+      "authors": [
+        {
+            "gitHubAccount": "script32",
+            "name": "Cristian Rodriguez",
+            "pictureUrl": "https://avatars.githubusercontent.com/u/11950749?s=40&v=4"
+        }
+      ]
+    }
+  ]
+  

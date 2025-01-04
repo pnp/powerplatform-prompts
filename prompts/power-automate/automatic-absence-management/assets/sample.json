@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-automatic-absence-management",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-12-11T00:00:00.000Z",
+    "updateDateTime": "2024-12-11T00:00:00.000Z",
+    "title": "Automatic Absence Management",
+    "shortDescription": "This Power Automate Copilot prompt helps with automating team absence management.",
+    "longDescription": [
+      "This Power Automate Copilot prompt helps automate team absence management by notifying relevant parties, updating shared calendars, and handling additional tasks."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/automatic-absence-management",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        
+        "url": "https://raw.githubusercontent.com/script32/powerplatform-prompts/main/prompts/power-automate/automatic-absence-management/assets/images/preview.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "script32",
+        "name": "Cristian Rodriguez",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/11950749?s=40&v=4"
+      }
+    ]
+  }
+]
