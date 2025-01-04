@@ -1,0 +1,1 @@
+Retrieve file extension from [MIMEtype].
