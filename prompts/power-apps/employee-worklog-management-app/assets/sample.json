@@ -1,0 +1,51 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-employee-worklog-management-app",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-12-30T00:00:00.000Z",
+      "updateDateTime": "2024-12-30T00:00:00.000Z",
+      "title": "Employee Worklog Management App",
+      "shortDescription": "This prompt helps create an app to manage employee worklogs.",
+      "longDescription": [
+        "This prompt helps create an app to manage employee worklogs, including multiple tables for employees, supervisors, daily worklogs, approval workflows, and departments"
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/employee-worklog-management-app/",
+      "products": [
+        "Power Apps",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-apps-prompts"
+      ],
+      "tags": [
+        "prompts",
+        "Power Apps Copilot"
+      ],
+      "categories": [
+        "Power Apps"
+      ],
+      "metadata": [
+        {
+          "key": "POWERAPPS-CUSTOMCONNECTOR",
+          "value": "No"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+          "alt": "Preview PNG"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "summitbaj",
+          "name": "Summit Bajracharya",
+          "pictureUrl": "https://github.com/summitbaj.png"
+        }
+      ]
+    }
+  ]
+  

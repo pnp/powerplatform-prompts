@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-attract-attention-clickbait",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-02-14T00:00:00.000Z",
+    "updateDateTime": "2024-02-14T00:00:00.000Z",
+    "title": "Attract Attention Clickbait",
+    "shortDescription": "This prompt helps to writing a captivating ttle for your text.",
+    "longDescription": [
+      "This prompt helps to writing a captivating ttle for your text."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/attract-attention-clickbait",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "TEXT GENERATOR"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": " Write a text or a thumbnail link that is designed to attract attention and to entice users to follow from this [data]"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Phil-cmd",
+        "name": "Philippe Larrue",
+        "pictureUrl": "https://github.com/Phil-cmd.png"
+      }
+    ]
+  }
+]

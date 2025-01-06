@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-remote_employee-worklife-balance-tracker-app",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-04-13T00:00:00.000Z",
+    "updateDateTime": "2024-04-13T00:00:00.000Z",
+    "title": "Employee Worklife Balance Tracker App",
+    "shortDescription": "This prompt helps create an app to help teams track productivity metrics, set goals, and monitor work-life balance for remote employees",
+    "longDescription": [
+      "This prompt helps create an app to help teams track productivity metrics, set goals, and monitor work-life balance for remote employees"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/remote_employee-worklife-balance-tracker-app/",
+    "products": [
+      "Power Apps",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-apps-prompts"
+    ],
+    "tags": [
+      "Power Apps Copilot"
+    ],
+    "categories": [
+      "Power Apps"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Create an app to an app to help teams track productivity metrics, set goals, and monitor work-life balance for remote employees."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "priyankasawant",
+        "name": "Priyanka Sawant",
+        "pictureUrl": "https://github.com/priyankasawant.png"
+      }
+    ]
+  }
+]

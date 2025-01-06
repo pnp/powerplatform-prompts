@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-process-text-to-json",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-03-02T00:00:00.000Z",
+    "updateDateTime": "2023-03-16T00:00:00.000Z",
+    "title": "Process Text to JSON",
+    "shortDescription": "This prompt helps with converting text files into JSON structure based on the pre-defined separators.",
+    "longDescription": [
+      "This prompt helps with converting text files into JSON structure based on the pre-defined separators."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/process-text-to-json/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "prompts", "json"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "You are a data processign assistant. I am going to send you a content in text format coming from an integration, and I need you to convert this to JSON format. Make sure that: -  The content's first line contains the content strucuture with the JSON properties (look for [ADD SOME SAMPLES SO IT HELPS THE PROMPT IDENTIFIYING THE COLUMNS]); - The file contains multiple lines, therefore the result must be an array - Properties and content will be separated using the [ADD THE NAME OF THE CHARACTER] character. Here is the text: [Text]. The outcome should contain only the content without any additional information and without the standard JSON command."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "douglasromao",
+        "name": "Douglas Romão",
+        "pictureUrl": "https://github.com/douglasromao.png"
+      }
+    ]
+  }
+]

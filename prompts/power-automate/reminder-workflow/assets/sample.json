@@ -1,0 +1,50 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-reminder-workflow",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2024-10-26T00:00:00.000Z",
+      "updateDateTime": "2024-10-26T00:00:00.000Z",
+      "title": "Reminder Workflow Prompt",
+      "shortDescription": "This prompt helps with creating a reminder workflow.  It sends out email 15 days, 5 days, and on the due date of a list item ",
+      "longDescription": [
+        "This prompt helps with creating a reminder workflow.  It sends out email 15 days, 5 days, and on the due date of a list item "
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/reminder-workflow",
+      "products": [
+        "Power Automate",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-automate-prompts"
+      ],
+      "tags": [
+        "Power Automate"
+      ],
+      "categories": [
+        "Power Automate"
+      ],
+      "metadata": [
+        {
+          "key": "Prompt",
+          "value": "Design a recurrence workflow that runs everyday and monitors a SharePoint List for Due date. Send reminder notifications to the 'Assigned To' user at 15 days, 5 days, and on the due date. Include item details like title, due date, and pending actions. "
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/prompts/power-automate/random-password-generator/assets/images/preview.png",
+          "alt": "Preview of prompt in Power Automate for desktop Copilot"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "sudeepghatak",
+          "name": "Sudeep Ghatak",
+          "pictureUrl": "https://github.com/sudeepghatak.png"
+        }
+      ]
+    }
+  ]
+  

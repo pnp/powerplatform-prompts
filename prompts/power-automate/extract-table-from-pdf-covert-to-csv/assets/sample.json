@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-extract-table-from-pdf-covert-to-csv",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-01-01T00:00:00.000Z",
+    "updateDateTime": "2025-01-01T00:00:00.000Z",
+    "title": "Extract table from a PDF file and convert to csv format",
+    "shortDescription": "This prompt helps in extracting table from an input PDF file mentioned in the instruction ",
+    "longDescription": [
+      "This prompt helps in extracting table from an input PDF file mentioned in the instruction"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/extract-table-from-pdf-covert-to-csv/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Solanki-Manish",
+        "name": "Manish Solanki",
+        "pictureUrl": "https://github.com/Solanki-Manish.png"
+      }
+    ]
+  }
+]

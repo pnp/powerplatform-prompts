@@ -1,0 +1,53 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-meeting-notes-from-transcript",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2023-09-25T00:00:00.000Z",
+    "updateDateTime": "2023-09-25T00:00:00.000Z",
+    "title": "Meeting Notes from Transcript",
+    "shortDescription": "This prompt helps with generating meeting notes from the transcript of a recorded meeting",
+    "longDescription": [
+      "This prompt helps with generating meeting notes from the transcript of a recorded meeting"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/meeting-notes-from-transcript/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "Power Automate",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "Meeting",
+      "AI Builder"
+    ],
+    "categories": [
+      "AI Builder",
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "sparkitect",
+        "name": "Jim Duncan",
+        "pictureUrl": "https://github.com/sparkitect.png"
+      }
+    ]
+  }
+]
