@@ -1,0 +1,1 @@
+Create an app for managing events and RSVPs. Users can add event details such as name, date, location, and organizer information, view events, and send RSVP invitations. Track attendee responses.
