@@ -18,7 +18,7 @@ create expense app to track expenses and income, manage categories and budgets
 
 Solution|Author(s)
 --------|---------
-Course Registration | [Ravindra Jadhav](https://www.github.com/jadhavravi) ([@jravindra553](https://x.com/jravindra553)), Microsoft
+Expense Tracking | [Ravindra Jadhav](https://www.github.com/jadhavravi) ([@jravindra553](https://x.com/jravindra553)), Savinj
 
 ## Minimal Path to Awesome
 
