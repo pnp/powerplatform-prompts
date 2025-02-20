@@ -1,0 +1,1 @@
+Create an expense app to track expenses and income, manage categories and budgets

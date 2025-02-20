@@ -1,0 +1,44 @@
+[
+    {
+      "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+      "name": "pnp-powerplatform-prompts-expense-tracking",
+      "version": "1.0.0.0",
+      "source": "pnp",
+      "creationDateTime": "2025-02-20T00:00:00.000Z",
+      "updateDateTime": "2025-02-20T00:00:00.000Z",
+      "title": "Expense Tracking app",
+      "shortDescription": "This Power Apps prompt helps you create a Expense Tracking app.",
+      "longDescription": [
+        "This prompt helps you create a Expense Tracking app that allows users to register for courses. It uses the new Power Apps Copilot data experience to help you build a multi-table, multi-screen app."
+      ],
+      "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/expense-tracking/",
+      "products": [
+        "Power Apps",
+        "Power Platform",
+        "powerplatform-prompts",
+        "power-apps-prompts"
+      ],
+      "tags": [
+        "prompts",
+        "Power Apps Copilot"
+      ],
+      "categories": [
+        "Power Apps"
+      ],
+      "metadata": [
+        {
+          "key": "POWERAPPS-CUSTOMCONNECTOR",
+          "value": "No"
+        }
+      ],
+      
+      "authors": [
+        {
+          "gitHubAccount": "jadhavravi",
+          "name": "Ravindra Jadhav",
+          "pictureUrl": "https://avatars.githubusercontent.com/u/102399533"
+        }
+      ]
+    }
+  ]
+  
