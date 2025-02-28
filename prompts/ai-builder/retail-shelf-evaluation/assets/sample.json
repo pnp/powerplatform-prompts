@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-retail-shelf-evaluation",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-03-02T00:00:00.000Z",
+    "updateDateTime": "2024-03-02T00:00:00.000Z",
+    "title": "Retail Shelf Layout Review",
+    "shortDescription": "Analyzes an image of a retail shelf to assess product placement, branding consistency, stock levels, and shelf organization",
+    "longDescription": [
+      "Analyzes an image of a retail shelf to assess product placement, branding consistency, stock levels, and shelf organization"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/retail-shelf-evaluation/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","retail"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Assess this [retail shelf] for product placement efficiency, branding, and customer accessibility."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/retail-shelf-evaluation/assets/preview.gif",
+        "alt": "AI Builder multi-modal prompt for retail shelf evaluation"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

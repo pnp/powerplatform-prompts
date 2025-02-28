@@ -1,0 +1,1 @@
+Let someone submit a request for time off, choosing from common leave types, and then providing their remaining details for the request such as their full name, start date, end date and total hours. Confirm their time off details.

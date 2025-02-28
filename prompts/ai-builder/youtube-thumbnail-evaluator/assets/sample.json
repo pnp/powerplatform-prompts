@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-youtube-thumbnail-evaluator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-03-01T00:00:00.000Z",
+    "updateDateTime": "2024-03-01T00:00:00.000Z",
+    "title": "YouTube Thumbnail Evaluator",
+    "shortDescription": "Evaluates a YouTube thumbnail and provides feedback to ensure your thumbnails are engaging, clear, and clickable.",
+    "longDescription": [
+      "Evaluates a YouTube thumbnail and provides feedback to ensure your thumbnails are engaging, clear, and clickable."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/youtube-thumbnail-evaluator/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","marketing","youtube"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Evaluate the [youtube thumbnail] for clickability. Analyze contrast, text readability, subject emphasis, and emotional impact. Provide suggestions to improve engagement."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/youtube-thumbnail-evaluator/assets/preview.gif",
+        "alt": "AI Builder multi-modal prompt that valuates a YouTube thumbnail and provides feedback to ensure your thumbnails are engaging, clear, and clickable"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+Analyze the uploaded [wireframe] of an app and provide UI/UX feedback. Evaluate layout, navigation, readability, accessibility, consistency, and branding. Identify usability issues and suggest improvements

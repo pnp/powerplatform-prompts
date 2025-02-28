@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-product-packaging-evaluator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2024-02-28T00:00:00.000Z",
+    "title": "Product Packaging Design Evaluator",
+    "shortDescription": "Analyzes an image of product packaging to assess branding consistency, readability, consumer appeal, and design effectiveness",
+    "longDescription": [
+      "Analyzes an image of product packaging to assess branding consistency, readability, consumer appeal, and design effectiveness"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/product-packaging-evaluator/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","retail"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze the [product packaging] to assess branding, readability, functionality, and consumer appeal. Identify design flaws such as awkward cutout placements, misleading imagery, excessive packaging, or usability issues. Highlight any risks that may confuse or frustrate consumers and suggest improvements."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/product-packaging-evaluator/assets/preview.gif",
+        "alt": "AI Builder multi-modal prompt for product packaging evaluation"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]
