@@ -1,0 +1,1 @@
+Analyze this [social media post] and these [comments] to determine sentiment and engagement potential. Exclude the comments from the original author. Please give me advice on how to improve the engagement next time.
