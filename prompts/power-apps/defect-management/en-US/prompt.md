@@ -1,0 +1,1 @@
+Develop a defect management app to efficiently track and resolve defects. Include defect categorisation, priority setting, and JIRA Work Item integration. Ensure fields for assigned resources and maintain detailed defect history log for status changes and resolutions
