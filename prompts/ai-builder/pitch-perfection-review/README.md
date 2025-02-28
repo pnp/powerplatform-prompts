@@ -6,7 +6,9 @@ This prompt evaluates presentations, highlighting strengths, weaknesses, and pot
 
 ## Prompt
 
+```text
 Analyze this [presentation] by identifying its strengths, highlighting areas for improvement, and predicting potential customer questions. Keep the insights clear, concise, and actionable.
+```
 
 ### Supported Language(s)
 
