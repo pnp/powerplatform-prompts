@@ -1,0 +1,55 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-pitch-perfection-review",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2025-02-28T00:00:00.000Z",
+    "title": "Pitch Perfection Review",
+    "shortDescription": "This prompt evaluates presentations, highlighting strengths, weaknesses, and potential customer questions.",
+    "longDescription": [
+      "This prompt evaluates presentations, highlighting strengths, weaknesses, and potential customer questions."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/pitch-perfection-review/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "Power Automate",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "AI Builder"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze this [presentation] by identifying its strengths, highlighting areas for improvement, and predicting potential customer questions. Keep the insights clear, concise, and actionable."
+      },
+      {
+        "key": "Example Input",
+        "value": "Use a presentation file (PDF)."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]

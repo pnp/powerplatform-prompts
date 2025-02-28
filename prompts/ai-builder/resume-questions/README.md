@@ -7,7 +7,7 @@ This prompt helps with analyzing a resume and providing potential interview ques
 ## Prompt
 
 ```text
-Analyze this [resume] and assess its suitability for the role of [job title]. Identify key strengths and potential gaps. Based on this analysis, generate  interview questions that will help evaluate the candidate’s fit for the role. Tailor the questions to address both their strengths and any areas that may need further exploration.
+Analyze this [resume] and assess its suitability for the role of [job title]. Identify key strengths and potential gaps. Based on this analysis, generate interview questions that will help evaluate the candidate’s fit for the role. Tailor the questions to address both their strengths and any areas that may need further exploration.
 ```
 
 ### Supported Language(s)

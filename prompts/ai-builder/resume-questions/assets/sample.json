@@ -1,0 +1,59 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-resume-questions",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2025-02-28T00:00:00.000Z",
+    "title": "Resume Questions",
+    "shortDescription": "This prompt helps with analyzing a resume and providing potential interview questions.",
+    "longDescription": [
+      "This prompt helps with analyzing a resume and providing potential interview questions."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/resume-questions/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "Power Automate",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "AI Builder"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze this [resume] and assess its suitability for the role of [job title]. Identify key strengths and potential gaps. Based on this analysis, generate interview questions that will help evaluate the candidate’s fit for the role. Tailor the questions to address both their strengths and any areas that may need further exploration."
+      },
+      {
+        "key": "Example Input (resume)",
+        "value": "Use an image or file (PNG/JPG/PDF)."
+      },
+      {
+        "key": "Example Input (job title)",
+        "value": "Software Engineer"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-social-media-engagement-analyzer",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2025-02-28T00:00:00.000Z",
+    "title": "Social Media Engagement Analyzer",
+    "shortDescription": "This prompt analyzes social media interactions to measure engagement and user activity.",
+    "longDescription": [
+      "This prompt analyzes social media interactions to measure engagement and user activity. It will output a JSON object which you can use to send to a back-end service."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/social-media-engagement-analyzer/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "Power Automate",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "AI Builder"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze this [social media post] and these [comments] to determine sentiment and engagement potential. Exclude the comments from the original author. Please give me advice on how to improve the engagement next time."
+      },
+      {
+        "key": "Example Input (social media post)",
+        "value": "Use a screenshot of the social media post (PNG/JPG)."
+      },
+      {
+        "key": "Example Input (comments)",
+        "value": "Use a screenshot of the comments (PNG/JPG)."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]

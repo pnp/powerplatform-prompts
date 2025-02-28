@@ -1,0 +1,55 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-mermaid-diagram-generator",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2025-02-28T00:00:00.000Z",
+    "title": "Mermaid Diagram Generator",
+    "shortDescription": "This prompt converts an architecture diagram into a Mermaid.js diagram code output.",
+    "longDescription": [
+      "This prompt converts an architecture diagram into a Mermaid.js diagram code output."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/mermaid-diagram-generator/",
+    "products": [
+      "AI Builder",
+      "AIBuilder",
+      "Power Platform",
+      "Power Automate",
+      "powerplatform-prompts",
+      "ai-builder-prompts"
+    ],
+    "tags": [
+      "AI Builder"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Convert this [architecture diagram] into a Mermaid.js diagram. Output only the Mermaid.js code, without any additional text, markdown or explanation."
+      },
+      {
+        "key": "Example Input",
+        "value": "Use an image of an architecture diagram."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "laskewitz",
+        "name": "Daniel Laskewitz",
+        "pictureUrl": "https://github.com/laskewitz.png"
+      }
+    ]
+  }
+]
