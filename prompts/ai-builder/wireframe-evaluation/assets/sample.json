@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-wireframe-evaluation",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-03-02T00:00:00.000Z",
+    "updateDateTime": "2024-03-02T00:00:00.000Z",
+    "title": "Wireframe UI/UX Evaluation",
+    "shortDescription": "Analyzes an app wireframe image and provides structured UI/UX feedback.",
+    "longDescription": [
+      "Analyzes an app wireframe image and provides structured UI/UX feedback."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/wireframe-evaluation/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","IT"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze the uploaded [wireframe] of an app and provide UI/UX feedback. Evaluate layout, navigation, readability, accessibility, consistency, and branding. Identify usability issues and suggest improvements"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/wireframe-evaluation/assets/preview.gif",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

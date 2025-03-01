@@ -1,0 +1,1 @@
+Assess this [retail shelf] for product placement efficiency, branding, and customer accessibility.

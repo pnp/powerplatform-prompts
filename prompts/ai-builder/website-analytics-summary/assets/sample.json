@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-website-analytics-summary",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-03-02T00:00:00.000Z",
+    "updateDateTime": "2024-03-02T00:00:00.000Z",
+    "title": "Website Analytics Evaluation",
+    "shortDescription": "Analyzes website usage data from uploaded reports, summarizing key insights, user engagement trends, and comparing metrics to industry benchmarks to assess performance.",
+    "longDescription": [
+      "Analyzes website usage data from uploaded reports, summarizing key insights, user engagement trends, and comparing metrics to industry benchmarks to assess performance."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/website-analytics-summary/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","Marketing","analytics"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze the [website usage data] to extract and summarize key metrics, including Monthly Active Users (MAU), Weekly Active Users (WAU), and Daily Active Users (DAU). Identify trends in user growth, engagement patterns, and potential issues such as low authenticated user activity. Compare these metrics to industry benchmarks for similar sites and determine if the website's performance is strong, average, or weak. Provide a structured summary of key findings along with recommendations for improving engagement."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/website-analytics-summary/assets/preview.gif",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

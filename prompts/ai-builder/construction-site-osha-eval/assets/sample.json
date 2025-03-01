@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-construction-site-osha-eval",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2024-02-28T00:00:00.000Z",
+    "title": "Construction Site Safety Compliance Checker",
+    "shortDescription": "Analyzes an image of a construction site to detect safety violations, assess OSHA compliance, and identify potential hazards",
+    "longDescription": [
+      "Analyzes an image of a construction site to detect safety violations, assess OSHA compliance, and identify potential hazards"
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/construction-site-osha-eval/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","construction"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze the [construction site] to detect safety violations and assess OSHA compliance. Identify potential hazards such as missing PPE, improper scaffolding, fall risks, or equipment obstructions. Provide structured feedback on violations and suggest corrective actions."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/construction-site-osha-eval/assets/preview.gif",
+        "alt": "AI Builder multi-modal prompt for construction site OSHA evaluation"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

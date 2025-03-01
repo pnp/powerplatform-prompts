@@ -1,0 +1,1 @@
+Evaluate the [youtube thumbnail] for clickability. Analyze contrast, text readability, subject emphasis, and emotional impact. Provide suggestions to improve engagement.

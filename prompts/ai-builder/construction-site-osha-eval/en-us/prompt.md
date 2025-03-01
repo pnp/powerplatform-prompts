@@ -1,0 +1,1 @@
+Analyze the [construction site] to detect safety violations and assess OSHA compliance. Identify potential hazards such as missing PPE, improper scaffolding, fall risks, or equipment obstructions. Provide structured feedback on violations and suggest corrective actions.

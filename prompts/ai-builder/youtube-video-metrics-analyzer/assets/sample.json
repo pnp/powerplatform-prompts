@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-youtube-video-metrics-analyzer",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-02-28T00:00:00.000Z",
+    "updateDateTime": "2024-02-28T00:00:00.000Z",
+    "title": "YouTube Video Metrics Analyzer",
+    "shortDescription": "Analyzes YouTube video metrics, compares to benchmarks, and suggests improvements.",
+    "longDescription": [
+      "Analyzes YouTube video metrics, compares to benchmarks, and suggests improvements."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/youtube-video-metrics-analyzer/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "multi-modal","marketing","analytics","youtube"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Analyze the [video analytics] to extract key performance insights. Summarize returning viewers, new viewers, unique viewers, average percentage viewed, average view duration, watch time, impressions, click-through rate (CTR), and subscriber impact. Compare these metrics to industry benchmarks for similar content and classify performance as above average, average, or below average. Identify patterns, areas for improvement, and provide recommendations on how to improve audience retention, engagement, and growth."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/powerplatform-prompts/raw/main/prompts/ai-builder/youtube-video-metrics-analyzer/assets/preview.gif",
+        "alt": "AI Builder multi-modal prompt that analyzes YouTube video metrics, compares to benchmarks, and suggests improvements"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "aprildunnam",
+        "name": "April Dunnam",
+        "pictureUrl": "https://github.com/aprildunnam.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+Analyze the [product packaging] to assess branding, readability, functionality, and consumer appeal. Identify design flaws such as awkward cutout placements, misleading imagery, excessive packaging, or usability issues. Highlight any risks that may confuse or frustrate consumers and suggest improvements.
