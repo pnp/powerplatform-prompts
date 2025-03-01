@@ -24,9 +24,11 @@ Leave Request Topic | [April Dunnam](https://github.com/aprildunnam) ([@aprildun
 * Go to Copilot Studio
 * Select **Topics** > **Create** > **Topic** > **Create from description with Copilot**
 * Name the topic **HR**
-* Paste prompt in **Create a topic to...** section 
+* Paste prompt in **Create a topic to...** section
 * Select **Create**
 
 ## Disclaimer
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/copilot-studio/leave-request-topic" aria-hidden="true" />

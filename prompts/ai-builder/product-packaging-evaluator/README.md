@@ -2,7 +2,7 @@
 
 ## Description
 
-This prompt analyzes an image of product packaging to assess branding consistency, readability, consumer appeal, and design effectiveness. It also detects poor design choices, such as misplaced cutouts, awkward image positioning, unnecessary packaging, or confusing layouts that could negatively impact consumer perception. 
+This prompt analyzes an image of product packaging to assess branding consistency, readability, consumer appeal, and design effectiveness. It also detects poor design choices, such as misplaced cutouts, awkward image positioning, unnecessary packaging, or confusing layouts that could negatively impact consumer perception.
 
 ## Prompt
 
@@ -30,4 +30,4 @@ Product Packaging Design Evaluator | [April Dunnam](https://www.github.com/april
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/social-media-engagement-analyzer" aria-hidden="true" />
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/product-packaging-evaluator" aria-hidden="true" />
