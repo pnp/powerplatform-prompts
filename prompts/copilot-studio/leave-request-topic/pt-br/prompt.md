@@ -1,0 +1,1 @@
+Permita que um colaborador envie uma solicitação de licença, escolhendo entre os tipos de licença mais comuns, e forneça os detalhes necessários para a solicitação, como nome completo, data de início, data de término e total de horas. Confirme os detalhes da solicitação de licença.
