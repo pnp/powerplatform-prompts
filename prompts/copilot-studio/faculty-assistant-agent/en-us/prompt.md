@@ -1,0 +1,1 @@
+Create an agent to help faculty at [university name] quickly find information on courses, academic policies, research opportunities, and campus resources.
