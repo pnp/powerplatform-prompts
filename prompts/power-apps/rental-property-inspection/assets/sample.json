@@ -1,17 +1,17 @@
 [
   {
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
-    "name": "pnp-powerplatform-prompts-event-rsvp-manager-app",
+    "name": "pnp-powerplatform-prompts-rental-property-inspection",
     "version": "1.0.0.0",
     "source": "pnp",
-    "creationDateTime": "2025-01-24T00:00:00.000Z",
-    "updateDateTime": "2025-01-24T00:00:00.000Z",
-    "title": "Event & RSVP Manager App",
-    "shortDescription": "This prompt helps create an app to manage events and RSVPs.",
+    "creationDateTime": "2025-04-02T00:00:00.000Z",
+    "updateDateTime": "2025-04-02T00:00:00.000Z",
+    "title": "Rental Property Inspection App",
+    "shortDescription": "Generates a rental inspection data model with related tables in PowerApps",
     "longDescription": [
-      "This prompt helps create an app to manage events and RSVPs, including features for adding event details such as name, date, location, and organizer information. Users can view events, send RSVP invitations, and track attendee responses, enabling efficient event organization and attendee management."
+      "This prompt helps with generating a structured data model in PowerApps for a rental inspection system, including tables, relationships, and key fields to track properties, inspections, issues, and inspectors efficiently."
     ],
-    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/event-rsvp-manager-app/",
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/rental-property-inspection/",
     "products": [
       "Power Apps",
       "Power Platform",
