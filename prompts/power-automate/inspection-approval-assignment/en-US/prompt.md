@@ -1,0 +1,1 @@
+Create a flow that triggers when a new inspection is created. The flow should send an approval request to the inspector’s manager. If approved, assign the inspection to the inspector and send them a notification with the property address, inspection date, and notes. If rejected, update the inspection status to 'Rejected'. Trigger should be a new item in sharepoint list
