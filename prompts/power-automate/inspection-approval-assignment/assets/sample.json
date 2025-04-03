@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-inspection-approval-assignment",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-04-02T00:00:00.000Z",
+    "updateDateTime": "2023-04-02T00:00:00.000Z",
+    "title": "Inspection Approval Assignment",
+    "shortDescription": "This prompt helps automate the approval and assignment of new inspections.",
+    "longDescription": ["This prompt helps with automating the process of approval and assignment of new inspections, notifying both the inspector's manager and the inspector, and updating the inspection status based on approval or rejection."
+      
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/inspection-approval-assignment/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Create a flow that triggers when a new inspection is created. The flow should send an approval request to the inspector’s manager. If approved, assign the inspection to the inspector and send them a notification with the property address, inspection date, and notes. If rejected, update the inspection status to 'Rejected'. trigger should be a new item in sharepoint list"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "mmbr1606",
+        "name": "Markus Franz",
+        "pictureUrl": "https://github.com/mmbr1606.png"
+      }
+    ]
+  }
+]
