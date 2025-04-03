@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-portal-main-rental-property-listing",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-04-03T00:00:00.000Z",
+    "updateDateTime": "2025-04.03T00:00:00.000Z",
+    "title": "Rental Property Listing",
+    "shortDescription": "This prompt helps create a rental property listing site for customer inquiries.",
+    "longDescription": [
+      "This prompt helps create a Power Pages site for customers interested in rental properties. The site will display available properties with key details such as address, type, status, and images. Customers can browse listings and submit inquiries through a contact form. The system will use Dataverse as the data source to manage property data and customer inquiries efficiently."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/dummy-text-generator/",
+    "products": [
+      "Power Pages",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-pages-prompts"
+    ],
+    "tags": [
+      "Site Page"
+    ],
+    "categories": [
+      "Power Pages"
+    ],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "mmbr1606",
+        "name": "Markus Franz",
+        "pictureUrl": "https://github.com/mmbr1606.png"
+      }
+    ]
+  }
+]
