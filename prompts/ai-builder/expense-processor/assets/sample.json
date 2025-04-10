@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-expense-processor",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-04-10T00:00:00.000Z",
+    "updateDateTime": "2025-04-10T00:00:00.000Z",
+    "title": "Expense Processor Prompt",
+    "shortDescription": "This AI Builder prompt automates the processing of emails with attached expense receipts to generate accurate and structured expense reports. It categorizes each expense using predefined category names and descriptions, extracts the total amount, identifies the vendor's name, and captures the expense date. Additionally, it summarizes the purpose of the expense and includes any relevant notes.",
+    "longDescription": [
+      "This AI Builder prompt automates the processing of emails with attached expense receipts to generate accurate and structured expense reports. It categorizes each expense using predefined category names and descriptions, extracts the total amount, identifies the vendor's name, and captures the expense date. Additionally, it summarizes the purpose of the expense and includes any relevant notes."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/ai-builder/expense-processor/",
+    "products": [
+      "AI Builder",
+      "Power Platform",
+      "powerplatform-prompts",
+      "ai-builder-prompts",
+      "multi-modal-prompts"
+    ],
+    "tags": [
+      "prompts", "goals"
+    ],
+    "categories": [
+      "AI Builder"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "You are an AI assistant designed to process incoming [email] and associated expense [receipts] for accurate and efficient expense reporting.\n\nFor each email and associated receipt attachments that you receive, perform the following tasks:\n\nCategorize the expense: Use the categories listed in [Airfare, Ground Transportation, Hotel, Meals, Parking] and determine the correct category based on the receipt information.\nExtract the receipt total amount: Identify the total amount on the receipt. If it is in a foreign currency, convert to USD.\nExtract the vendor's name: Identify and return the cleaned name of the vendor that issued the receipt.\nExtract the expense date: Identify the date of the expense from the receipt, ensuring it's formatted correctly (YYYY-MM-DD).\nSummarize the purpose: From the email body, summarize the purpose of this expense report in no more than 8 words.\nReturn the extracted data in the following format:\n\nCategory: The correct expense category based on the receipt details.\nAmount: The total amount in USD formatted to 2 decimal places. If the receipt is in a foreign currency, convert it to USD.\nVendor: The cleaned name of the vendor, removing unnecessary details.\nExpense Date: The date of the expense in YYYY-MM-DD format.\nPurpose: A summary of the expense report's purpose. No more than 8 words.\nNotes: Any relevant notes about the receipt, such as the original currency and amount, missing or unclear dates, non-economy class ticket, or any potential issues with the receipt."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/refs/heads/main/prompts/ai-builder/expense-processor/assets/prompt-preview.png",
+        "alt": "Screenshot of a Power Platform AI Builder interface displaying an Expense Processor prompt"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "gomomohapi",
+        "name": "Gomolemo Mohapi",
+        "pictureUrl": "https://github.com/gomomohapi.png"
+      }
+    ]
+  }
+]
