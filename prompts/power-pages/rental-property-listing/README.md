@@ -1,4 +1,4 @@
-# YOUR PROMPT NAME 
+# Rental Property Listing
 
 Rental Property Listing
 
@@ -28,4 +28,4 @@ Rental Property Listing | [Markus Franz](https://www.github.com/mmbr1606)
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/sample" aria-hidden="true" />
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/prompts/power-pages/rental-property-listing" aria-hidden="true" />

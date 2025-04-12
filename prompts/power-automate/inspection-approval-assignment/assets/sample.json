@@ -5,7 +5,7 @@
     "version": "1.0.0.0",
     "source": "pnp",
     "creationDateTime": "2025-04-02T00:00:00.000Z",
-    "updateDateTime": "2023-04-02T00:00:00.000Z",
+    "updateDateTime": "2025-04-02T00:00:00.000Z",
     "title": "Inspection Approval Assignment",
     "shortDescription": "This prompt helps automate the approval and assignment of new inspections.",
     "longDescription": ["This prompt helps with automating the process of approval and assignment of new inspections, notifying both the inspector's manager and the inspector, and updating the inspection status based on approval or rejection."
