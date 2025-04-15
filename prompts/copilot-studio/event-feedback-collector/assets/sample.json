@@ -1,0 +1,58 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-event-feedback-collector",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2024-07-08T00:00:00.000Z",
+    "updateDateTime": "2024-07-08T00:00:00.000Z",
+    "title": "Event Feedback Collector Copilot",
+    "shortDescription": "This Copilot Studio prompt helps create a copilot that collects and summarizes event feedback.",
+    "longDescription": [
+      "This prompt enables you to build a Copilot that gathers feedback from event attendees via conversational chat. It can ask structured questions about event satisfaction, content quality, and logistics. The copilot then summarizes the responses and provides insights or trends for organizers."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/event-feedback-collector/",
+    "products": [
+      "Power Platform",
+      "powerplatform-prompts",
+      "copilot-studio-prompts"
+    ],
+    "tags": [
+      "prompts",
+      "feedback",
+      "events"
+    ],
+    "categories": [
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Initial Prompt",
+        "value": "I want this copilot to ask attendees for feedback after an event. It should ask about their overall satisfaction, what they liked, what could be improved, and suggestions for future events."
+      },
+      {
+        "key": "Instructions Prompt",
+        "value": "Please collect and summarize responses clearly, and be friendly when asking for input."
+      },
+      {
+        "key": "Avoid Prompt",
+        "value": "Avoid personal or sensitive questions not related to the event experience."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ValerasNarbutas",
+        "name": "Valeras Narbutas",
+        "pictureUrl": "https://github.com/ValerasNarbutas.png"
+      }
+    ]
+  }
+]
