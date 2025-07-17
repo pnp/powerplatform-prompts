@@ -45,4 +45,4 @@ Strategic Company Analysis | [April Dunnam](https://github.com/aprildunnam) ([@a
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/smart-goal-setting" aria-hidden="true" />
+<img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/samples/ai-builder/strategic-company-analysis-o3" aria-hidden="true" />
