@@ -1,0 +1,49 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-dynamic-employee-recognition",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-04-15T00:00:00.000Z",
+    "updateDateTime": "2025-04-15T00:00:00.000Z",
+    "title": "Dynamic Employee Recognition",
+    "shortDescription": "Monitor messages posted in a selected Microsoft Teams channel to detect and capture employee recognition, including announcements, achievements, and messages with positive reactions or mentions. Each month, compile these messages into a structured recognition summary highlighting employees who've received notable mentions or positive reactions",
+    "longDescription": [
+      ""
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-automate/dynamic-employee-recognition/",
+    "products": [
+      "Power Automate",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-automate-prompts"
+    ],
+    "tags": [
+      "Power Automate Copilot"
+    ],
+    "categories": [
+      "Power Automate"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "Create a workflow that captures new leads from Microsoft Forms and adds them to Dataverse. Set up an automated follow-up email sequence to nurture leads over time."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview GIF"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "ValerasNarbutas",
+        "name": "Valeras Narbutas",
+        "pictureUrl": "https://github.com/ValerasNarbutas.png"
+      }
+    ]
+  }
+]
