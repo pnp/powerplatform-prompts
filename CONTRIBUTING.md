@@ -31,6 +31,12 @@ Whenever you are submitting any changes to the community sample repositories, pl
 When you are submitting a new sample, it has to follow up below guidelines
 
 * You will need to have a `README.md` file for your contribution, which is based on [the provided template]([templates\sample-template\README.md](https://github.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/it-expert/readme.md)). Please copy this template to your project and update it accordingly. Your `README.md` must be named exactly `README.md` -- with capital letters -- as this is the information we use to make your sample public.
+* If your prompt includes `assets/sample.json`, the final non-empty line of the prompt's root `README.md` must be the visitor tracker below. Replace `{prompt-path}` with the repository-relative path to the prompt folder, using forward slashes with no leading or trailing slash (for example, `prompts/power-automate/reminder-workflow`).
+
+  ```html
+  <img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/{prompt-path}" />
+  ```
+
 * The sample should include a folder with the localization of your prompt.  For example, for a prompt in English you would create a folder called "en-us".  Inside that folder you will include a file named prompt.md which is include only the text of your prompt.
 * If you find an existing sample which is similar to yours, please extend the existing one rather than submitting a new similar sample
   * When you update existing prompts, please update also `README.md` file accordingly with information on provided changes and with your author details
