@@ -7,6 +7,7 @@ In this directory, you will find a directory named `prompt-sample` which you can
 1. Rename the directory and give it a name like `email-generator` or `email-summarizer` - don't use capital letters
 1. Update the `README.md` file in your sample folder
 1. Enter the prompt in the `prompt.md` file inside
+1. If the prompt should appear in the sample gallery, add `assets/sample.json` and keep its title, descriptions, repository URL, products, tags, categories, and authors consistent with the root `README.md`
 1. Optional: Add additional languages. For instance use `fr-fr` for French.
 
 If the prompt includes `assets/sample.json`, its root `README.md` must end with the following visitor tracker:
