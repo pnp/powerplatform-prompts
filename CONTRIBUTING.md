@@ -30,8 +30,15 @@ Whenever you are submitting any changes to the community sample repositories, pl
 
 When you are submitting a new sample, it has to follow up below guidelines
 
-* You will need to have a `README.md` file for your contribution, which is based on [the provided template]([templates\sample-template\README.md](https://github.com/pnp/powerplatform-prompts/blob/main/prompts/ai-builder/it-expert/readme.md)). Please copy this template to your project and update it accordingly. Your `README.md` must be named exactly `README.md` -- with capital letters -- as this is the information we use to make your sample public.
-* The sample should include a folder with the localization of your prompt.  For example, for a prompt in English you would create a folder called "en-us".  Inside that folder you will include a file named prompt.md which is include only the text of your prompt.
+* You will need to have a `README.md` file for your contribution, based on [the provided prompt sample template](./templates/prompt-sample/README.md). Copy the template to your prompt folder and update it accordingly. The file must be named exactly `README.md` -- with capital letters -- because this is the information used to publish your sample.
+* Prompts that should appear in the sample gallery must include `assets/sample.json`. Keep its title, descriptions, repository URL, products, tags, categories, and authors consistent with the root `README.md`.
+* If your prompt includes `assets/sample.json`, the final non-empty line of the prompt's root `README.md` must be the visitor tracker below. Replace `{prompt-path}` with the repository-relative path to the prompt folder, using forward slashes with no leading or trailing slash (for example, `prompts/power-automate/reminder-workflow`).
+
+  ```html
+  <img src="https://m365-visitor-stats.azurewebsites.net/powerplatform-prompts/{prompt-path}" />
+  ```
+
+* The sample should include a folder for each prompt language. For example, for an English prompt, create an `en-us` folder containing a `prompt.md` file with only the prompt text.
 * If you find an existing sample which is similar to yours, please extend the existing one rather than submitting a new similar sample
   * When you update existing prompts, please update also `README.md` file accordingly with information on provided changes and with your author details
 * When submitting a new prompt, please name the prompt folder accordingly
@@ -43,12 +50,12 @@ When you are submitting a new sample, it has to follow up below guidelines
 Here's a high-level process for submitting new prompts or updates to existing ones.
 
 1. Sign the Contributor License Agreement (see below)
-2. Fork this repository [pnp/powerplatform-prompts]([https://github.com/pnp/powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)) to your GitHub account
-3. Create a new branch from the `main` branch for your fork for the contribution
+2. Fork the [pnp/powerplatform-prompts repository](https://github.com/pnp/powerplatform-prompts) to your GitHub account
+3. Sync your fork's `main` branch with this repository, then create a new branch for your contribution
 4. Include your changes to your branch
-5. Commit your changes using descriptive commit message * These are used to track changes on the repositories for monthly communications
-6. Create a pull request in your own fork and target the `main` branch
-7. Fill up the provided PR template with the requested details
+5. Commit your changes using a descriptive commit message. These messages are used to track changes for monthly communications
+6. Open a pull request from your fork's contribution branch to the `main` branch of `pnp/powerplatform-prompts`
+7. Describe the prompt, metadata changes, and validation performed in the pull request
 
 If you feel insecure about that process or are new to GitHub, please consider to attend the [Sharing Is Caring sessions from the PnP team](https://pnp.github.io/sharing-is-caring/#pnp-sic-events) in which the Microsoft 365 PnP team provides hands-on guidance for first time contributors.
 
@@ -56,7 +63,7 @@ Before you submit your pull request consider the following guidelines:
 
 * Search [GitHub](https://github.com/pnp/powerplatform-prompts/pulls) for an open or closed Pull Request
   which relates to your submission. You don't want to duplicate effort.
-* Make sure you have a link in your local cloned fork to the [pnp/powerplatform-prompts]([[https://github.com/pnp/powerplatform-prompts](https://github.com/pnp/powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)))
+* Make sure your local clone has an `upstream` remote pointing to [pnp/powerplatform-prompts](https://github.com/pnp/powerplatform-prompts):
 
   ```shell
   # check if you have a remote pointing to the Microsoft repo:
@@ -68,39 +75,27 @@ Before you submit your pull request consider the following guidelines:
   git remote add upstream https://github.com/pnp/powerplatform-prompts.git
   ```
 
-* Make your changes in a new git branch:
+* Sync your fork, then create a contribution branch:
 
   ```shell
-  git checkout -b YOUR-SOLUTION-NAME main
+  git fetch upstream
+  git switch main
+  git merge --ff-only upstream/main
+  git push origin main
+  git switch -c YOUR-SOLUTION-NAME
   ```
-
-* Ensure your fork is updated and not behind the upstream **powerplatform-prompts** repo. Refer to these resources for more information on syncing your repo:
-  * [GitHub Help: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
-  * [Keep Your Forked Git Repo Updated with Changes from the Original Upstream Repo](http://www.andrewconnell.com/blog/keep-your-forked-git-repo-updated-with-changes-from-the-original-upstream-repo)
-  * For a quick cheat sheet:
-
-    ```shell
-    # assuming you are in the folder of your locally cloned fork....
-    git checkout main
-
-    # assuming you have a remote named `upstream` pointing official **powerplatform-prompts** repo
-    git fetch upstream
-
-    # update your local main to be a mirror of what's in the main repo
-    git pull --rebase upstream main
-
-    # switch to your branch where you are working, say "YOUR-SOLUTION-NAME"
-    git checkout YOUR-SOLUTION-NAME
-
-    # update your branch to update it's fork point to the current tip of main & put your changes on top of it
-    git rebase main
-    ```
 
 * Push your branch to GitHub:
 
   ```shell
-  git push origin YOUR-SOLUTION-NAME
+  git push --set-upstream origin YOUR-SOLUTION-NAME
   ```
+
+## Community calls and demos
+
+Weekly Copilot, Microsoft 365, and Power Platform community calls are open to everyone. Join the calls at <https://aka.ms/community/calls>.
+
+To share your learnings and input with the community, request a demo slot at <https://aka.ms/community/request/demo>.
 
 ## Merging your Existing GitHub Projects with this Repository
 
