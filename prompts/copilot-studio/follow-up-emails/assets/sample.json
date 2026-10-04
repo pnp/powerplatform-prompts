@@ -1,0 +1,48 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-follow-up-emails",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-04-15T00:00:00.000Z",
+    "updateDateTime": "2025-04-15T00:00:00.000Z",
+    "title": "Follow Up Email",
+    "shortDescription": "Generate personalized follow-up emails after support ticket resolution.",
+    "longDescription": [
+      "Generate personalized follow-up emails for customers based on recent support ticket resolutions, including ticket details and a friendly check-in."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/copilot-studio/follow-up-emails/",
+    "products": [
+      "Power Platform",
+      "powerplatform-prompts",
+      "copilot-studio-prompts"
+    ],
+    "tags": [
+      "prompts"
+    ],
+    "categories": [
+      "Copilot Studio"
+    ],
+    "metadata": [
+      {
+        "key": "Prompt",
+        "value": "For each customer in this list, generate a follow-up email thanking them for their recent support request. Mention the ticket subject and resolution date, and ask if everything is resolved."
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "mmbr1606",
+        "name": "Markus Franz",
+        "pictureUrl": "https://github.com/mmbr1606.png"
+      }
+    ]
+  }
+]
