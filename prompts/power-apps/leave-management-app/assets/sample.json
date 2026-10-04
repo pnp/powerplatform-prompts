@@ -1,0 +1,50 @@
+[
+  {
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/pnp/samples/v1.0/metadata-schema.json",
+    "name": "pnp-powerplatform-prompts-leave-management-app",
+    "version": "1.0.0.0",
+    "source": "pnp",
+    "creationDateTime": "2025-10-15T00:00:00.000Z",
+    "updateDateTime": "2025-10-15T00:00:00.000Z",
+    "title": "Leave Management App",
+    "shortDescription": "This prompt helps create an internal app to manage employee leave requests.",
+    "longDescription": [
+      "This prompt helps create an internal Canvas Power App for leave management. Employees can submit leave requests including type, start date, end date, and reason. Managers can approve or reject leave requests, and users can view leave history. The app ensures role-based access and uses modern controls with responsive design and company branding."
+    ],
+    "url": "https://github.com/pnp/powerplatform-prompts/tree/main/prompts/power-apps/leave-management-app/",
+    "products": [
+      "Power Apps",
+      "Power Platform",
+      "powerplatform-prompts",
+      "power-apps-prompts"
+    ],
+    "tags": [
+      "prompts",
+      "Power Apps Copilot",
+      "leave management",
+      "internal apps"
+    ],
+    "categories": ["Power Apps"],
+    "metadata": [
+      {
+        "key": "POWERAPPS-CUSTOMCONNECTOR",
+        "value": "No"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/powerplatform-prompts/main/templates/previewprompts.png",
+        "alt": "Preview PNG"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "summitbaj",
+        "name": "Summit Bajracharya",
+        "pictureUrl": "https://github.com/summitbaj.png"
+      }
+    ]
+  }
+]
